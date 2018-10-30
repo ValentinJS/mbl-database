@@ -1,0 +1,27 @@
+.slider.slider-horizontal .slider-tick-label-container {
+  position: absolute;
+  margin-top: -2px;
+  color: black;
+  margin-left: 0 !important;
+  font-size: 11px;
+}
+
+.slider-handle.custom {
+  width: 8px;
+  height: 20px;
+
+}
+
+.slider-handle.custom::before {
+  content: '';
+}
+
+.slider-tick.custom {
+  width: 8px;
+  height: 20px;
+  background-color: lightgray;
+}
+
+.slider-tick.custom::before {
+  content: '';
+}

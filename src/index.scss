@@ -1,0 +1,47 @@
+@import 'bootstrap/scss/bootstrap.scss';
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.App {
+  text-align: center;
+}
+
+.cost-0 {
+  background-color: #cad9fb;
+}
+.cost-1 {
+  background-color: #a5c1f9;
+}
+.cost-2 {
+  background-color: #6f9cf1;
+}
+.cost-3 {
+  background-color: #4075df;
+}
+
+.rarity-0 {
+  background-color: #d9d9d9;
+}
+.rarity-1 {
+  background-color: #96c573;
+}
+.rarity-2 {
+  background-color: #72a7e1;
+}
+.rarity-3 {
+  background-color: #bf7ba3;
+}
+
+.card-asset {
+  width: 50px;
+  margin-right: 10px;
+  border-radius: 7px;
+}

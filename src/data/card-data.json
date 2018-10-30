@@ -1,0 +1,2032 @@
+[
+  {
+    "name": "A-Bomb",
+    "title": "undefined",
+    "cost": 2,
+    "atk": 530,
+    "hp": 760,
+    "rarityName": "Epic",
+    "rarity": 3,
+    "ability": "After summoning, deal damage to the nearest enemy on the same vertical line by charging into them, then deal damage to all enemies nearby target"
+  },
+  {
+    "name": "Absorbing Man",
+    "title": "AbsorbingManCarlCreel",
+    "cost": 1,
+    "atk": 390,
+    "hp": 390,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "After summoning, change own HP to that of nearby character with highest HP through absorption"
+  },
+  {
+    "name": "Adam Warlock",
+    "title": "AdamWarlockAdamWarlock",
+    "cost": 3,
+    "atk": 570,
+    "hp": 1200,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "Will not need to recharge after making a Battle Line"
+  },
+  {
+    "name": "Agamotto",
+    "title": "AgamottoAgamotto",
+    "cost": 3,
+    "atk": 730,
+    "hp": 1040,
+    "rarityName": "Epic",
+    "rarity": 3,
+    "ability": "After moving, split into two characters, each with half HP of the original"
+  },
+  {
+    "name": "Agent 13",
+    "title": "Agent13SharonCarter",
+    "cost": 0,
+    "atk": 210,
+    "hp": 110,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "--"
+  },
+  {
+    "name": "Agent Coulson",
+    "title": "AgentCoulsonPhillipCoulson",
+    "cost": 1,
+    "atk": 290,
+    "hp": 290,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "When summoned, if allies do not occupy the battlefield, summon a shield agent with ATK/HP 80 on a nearby slot"
+  },
+  {
+    "name": "Agent Sitwell",
+    "title": "AgentSitwellJasperSitwell",
+    "cost": 1,
+    "atk": 320,
+    "hp": 240,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "When summoned, if allies do not occupy the battlefield, summon a shield agent with ATK/HP 100 on a distant slot"
+  },
+  {
+    "name": "Ancient One",
+    "title": "AncientOneYao",
+    "cost": 2,
+    "atk": 550,
+    "hp": 780,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "On every turn, increase the quantity of cosmic fragments on the field through magic"
+  },
+  {
+    "name": "Ant-Man (Scott Lang)",
+    "title": "AntManScottLang",
+    "cost": 1,
+    "atk": 380,
+    "hp": 290,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "After summoning, deal 140~170 damage each to all nearby enemies by dealing a massive attack"
+  },
+  {
+    "name": "Anti-Venom",
+    "title": "undefined",
+    "cost": 2,
+    "atk": 580,
+    "hp": 580,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "After summoning, add HP to nearby allies through healing"
+  },
+  {
+    "name": "Armadillo",
+    "title": "ArmadilloAntonioRodriguez",
+    "cost": 1,
+    "atk": 380,
+    "hp": 540,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "This character is immune to attack damage"
+  },
+  {
+    "name": "Asgardian Healing Chalice",
+    "title": "AsgardianHealingChalice",
+    "cost": 0,
+    "atk": "--",
+    "hp": "--",
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "Add 330 HP to target by applying Asgardian medicine. Changes target's ATK to 200 as a side effect. Remove from this battle after use"
+  },
+  {
+    "name": "Bad Cop",
+    "title": "Badcop",
+    "cost": 0,
+    "atk": 140,
+    "hp": 210,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "--"
+  },
+  {
+    "name": "Baron Mordo",
+    "title": "undefined",
+    "cost": 2,
+    "atk": 800,
+    "hp": 590,
+    "rarityName": "Epic",
+    "rarity": 3,
+    "ability": "When Baron Mordo knocks out an enemy, deal damage equal to that enemy's ATK to the enemy leader"
+  },
+  {
+    "name": "Baron Strucker",
+    "title": "BaronStruckerWolfgangvonStrucker",
+    "cost": 1,
+    "atk": 230,
+    "hp": 230,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "After summoning, destroy 1 nearby cosmic fragment"
+  },
+  {
+    "name": "Baron Zemo",
+    "title": "BaronZemoHelmutZemo",
+    "cost": 1,
+    "atk": 330,
+    "hp": 470,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "After summoning, strategically destroy 1 nearby empty slot"
+  },
+  {
+    "name": "Baron's Strike",
+    "title": "undefined",
+    "cost": 1,
+    "atk": "--",
+    "hp": "--",
+    "rarityName": "Epic",
+    "rarity": 3,
+    "ability": "Deal damage to the enemy with the highest ATK. Deal damage to the enermy with the highest HP. Remove from this battle after use"
+  },
+  {
+    "name": "Black Bolt",
+    "title": "undefined",
+    "cost": 2,
+    "atk": 530,
+    "hp": 760,
+    "rarityName": "Epic",
+    "rarity": 3,
+    "ability": "After summoning, deal damage each to all enemies on the same vertical line by screaming a sonic wave at them"
+  },
+  {
+    "name": "Black Cat",
+    "title": "BlackCatFeliciaHardy",
+    "cost": 0,
+    "atk": 150,
+    "hp": 210,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "After moving, gain 1 nearby Cosmic Fragment from the field"
+  },
+  {
+    "name": "Black Mariah",
+    "title": "BlackMariahMariahDillard",
+    "cost": 1,
+    "atk": 270,
+    "hp": 380,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "After summoning, deal XX damage with a strong kick to one enemy on the same vertical line"
+  },
+  {
+    "name": "Black Panther",
+    "title": "BlackPantherTChalla",
+    "cost": 2,
+    "atk": 340,
+    "hp": 490,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "When damage is dealt to Black Panther through an enemy's special ability, reflect 50% damage back to the source through the use of Wakandan Technology"
+  },
+  {
+    "name": "Black Widow",
+    "title": "BlackWidowNatashaAlianovaRomanova",
+    "cost": 1,
+    "atk": 430,
+    "hp": 220,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "After summoning, opponent switches all action cards in hand"
+  },
+  {
+    "name": "Blade",
+    "title": "undefined",
+    "cost": 2,
+    "atk": 400,
+    "hp": 570,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "After summoning, drain nearby enemies' HP by 80 with vampiric powers, then add drained HP to own ATK"
+  },
+  {
+    "name": "Bruce Banner",
+    "title": "HulkBruceBanner",
+    "cost": 2,
+    "atk": 420,
+    "hp": 620,
+    "rarityName": "Epic",
+    "rarity": 3,
+    "ability": "When knocked out, use 1 cosmic fragments to transform into the Hulk"
+  },
+  {
+    "name": "Bullseye",
+    "title": "BullseyeLester",
+    "cost": 1,
+    "atk": 360,
+    "hp": 360,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "When knocked out, deal 170 damage to an enemy by throwing a shuriken at them"
+  },
+  {
+    "name": "Calamitous Portal",
+    "title": "undefined",
+    "cost": 2,
+    "atk": "--",
+    "hp": "--",
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "Every character on the battlefield disappears. Each player summons a random character from either library to random slot for 4 times. Remove from this battle after use and immediately end this turn"
+  },
+  {
+    "name": "Captain America",
+    "title": "CaptainAmericaStevenSteveRogers",
+    "cost": 2,
+    "atk": 500,
+    "hp": 500,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "After summoning, deals 210 damage to all nearby enemies using his shield throw."
+  },
+  {
+    "name": "Captain Marvel",
+    "title": "CaptainMarvelCarolDanvers",
+    "cost": 3,
+    "atk": 810,
+    "hp": 810,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "After moving, double current ATK. This ability is used once per summon"
+  },
+  {
+    "name": "Carnage",
+    "title": "CarnageCletusKasady",
+    "cost": 3,
+    "atk": 480,
+    "hp": 1010,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "After summoning, drains nearby enemies' HP by 120 with Symbiote Powers, then adds drained HP to own ATK"
+  },
+  {
+    "name": "Chain Lighting",
+    "title": "undefined",
+    "cost": 2,
+    "atk": "--",
+    "hp": "--",
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "Deals damage by summoning chain lightning. The lightning spreads to nearby enemies, dealing less damage to each new target. Remove from this battle after use"
+  },
+  {
+    "name": "Clea",
+    "title": "CleaCleaStrange",
+    "cost": 1,
+    "atk": 520,
+    "hp": 270,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "After summoning, enchants an ally with a shield that prevents damage once until next turn"
+  },
+  {
+    "name": "Cloak",
+    "title": "undefined",
+    "cost": 1,
+    "atk": 200,
+    "hp": 150,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "When knocked out, seize a distant enemy and vanish into the Darkforce forever"
+  },
+  {
+    "name": "Colleen Wing",
+    "title": "ColleenWingColleenWing",
+    "cost": 0,
+    "atk": 160,
+    "hp": 160,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "After summoning, deal 90 damage to an enemy on the same horizontal line through a strong sword dash"
+  },
+  {
+    "name": "Colony of Ants",
+    "title": "ColonyOfAnts",
+    "cost": 0,
+    "atk": 70,
+    "hp": 250,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "--"
+  },
+  {
+    "name": "Combined Willpower",
+    "title": "CombinedWillpower",
+    "cost": 1,
+    "atk": "--",
+    "hp": "--",
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "Drain the HP of all characters below 350HP to 1 and add half of the maount drained to ATK by channeling the will of Lei Kung. Remove from this battle after use"
+  },
+  {
+    "name": "Common Enemy",
+    "title": "CommonEnemy",
+    "cost": 1,
+    "atk": "--",
+    "hp": "--",
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "Mark an enemy with ATK higher than 400 as a Common Enemy. The Common Enemy will be attacked by all nearby charaters. Remove from this battle after use."
+  },
+  {
+    "name": "Cottonmouth",
+    "title": "CottonmouthCornellCottonmouth",
+    "cost": 0,
+    "atk": 190,
+    "hp": 100,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "When knocked out, deal 100~130 damage to a distant enemy"
+  },
+  {
+    "name": "Crimson Hawks",
+    "title": "CrimsonHawks",
+    "cost": 1,
+    "atk": 470,
+    "hp": 350,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "--"
+  },
+  {
+    "name": "Dagger",
+    "title": "DaggerTandyBowen",
+    "cost": 1,
+    "atk": 420,
+    "hp": 310,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "After summoning, deal 180 damage to an enemy by throwing a dagger of light"
+  },
+  {
+    "name": "Daredevil",
+    "title": "DaredevilMatthewMurdock",
+    "cost": 1,
+    "atk": 390,
+    "hp": 390,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "After summoning, deal 210 damage to one enemy on the same vertical line by striking them with billy clubs"
+  },
+  {
+    "name": "Dark Elf Leader",
+    "title": "DarkElfLeader",
+    "cost": 0,
+    "atk": 210,
+    "hp": 210,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "--"
+  },
+  {
+    "name": "Dark Elf Soldier",
+    "title": "DarkElfSoldier",
+    "cost": 0,
+    "atk": 220,
+    "hp": 170,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "--"
+  },
+  {
+    "name": "Dark Elf Sorcerer",
+    "title": "DarkElfSorcerer",
+    "cost": 2,
+    "atk": 570,
+    "hp": 420,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "After summoning, deal 180 damage by casting magic on the enemy with the highest ATK, then deal 150 damage to all characters nearby target"
+  },
+  {
+    "name": "Deathlok",
+    "title": "DeathlokLutherManning",
+    "cost": 1,
+    "atk": 410,
+    "hp": 410,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "After summoning, deal 220-270 damage a diagonally placed enemy through rocket fire"
+  },
+  {
+    "name": "Destroyer",
+    "title": "undefined",
+    "cost": 3,
+    "atk": 470,
+    "hp": 990,
+    "rarityName": "Epic",
+    "rarity": 3,
+    "ability": "On every turn, consume 2 cosmic fragments to fire a destructive beam that knocks out an enemy"
+  },
+  {
+    "name": "Destructive Hurl",
+    "title": "undefined",
+    "cost": 2,
+    "atk": "--",
+    "hp": "--",
+    "rarityName": "Epic",
+    "rarity": 3,
+    "ability": "Hulk throws a car and deals damage towards a selected enemy, characters near the target receive 1-100 damage each. Remove from this battle after use"
+  },
+  {
+    "name": "Devil Dinosaur",
+    "title": "DevilDinosaurDevilDinosaur",
+    "cost": 2,
+    "atk": 420,
+    "hp": 600,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "After summoning, deal 220 damage to all enemies in the same horizontal line by stomping on them"
+  },
+  {
+    "name": "Diamondback",
+    "title": "DiamondbackWillisStryker",
+    "cost": 0,
+    "atk": 180,
+    "hp": 90,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "After summoning, deal 100 damage by throwing a dagger at a distant enemy"
+  },
+  {
+    "name": "Doctor Octoputs",
+    "title": "undefined",
+    "cost": 2,
+    "atk": 430,
+    "hp": 430,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "On every turn, deals 170~200 damage to each nearby diagonally positioned enemy by striking them with metallic arms"
+  },
+  {
+    "name": "Doctor Strange",
+    "title": "DoctorStrangeStephenVincentStrange",
+    "cost": 3,
+    "atk": 850,
+    "hp": 850,
+    "rarityName": "Epic",
+    "rarity": 3,
+    "ability": "After summoning, enchant all allies with a shild that prevents damage once until next turn"
+  },
+  {
+    "name": "Doctor Voodoo",
+    "title": "undefined",
+    "cost": 2,
+    "atk": 760,
+    "hp": 560,
+    "rarityName": "Epic",
+    "rarity": 3,
+    "ability": "After summoning, deal damange to all nearby, diagonally placed enemies with voodoo magic"
+  },
+  {
+    "name": "Dormammu",
+    "title": "undefined",
+    "cost": 3,
+    "atk": 470,
+    "hp": 1000,
+    "rarityName": "Epic",
+    "rarity": 3,
+    "ability": "After summoning, remove the special abilities of all enemies on the battlefield"
+  },
+  {
+    "name": "Drax",
+    "title": "DraxArtherDouglas",
+    "cost": 2,
+    "atk": 460,
+    "hp": 660,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "On every turn, add ATK 150, HP 150 to self by enraging at the thought of Thanos"
+  },
+  {
+    "name": "Dum Dum Dugan",
+    "title": "DumDumDuganTimothyDugan",
+    "cost": 0,
+    "atk": 210,
+    "hp": 110,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "--"
+  },
+  {
+    "name": "Electro",
+    "title": "ElectroMaxwellDillon",
+    "cost": 1,
+    "atk": 400,
+    "hp": 300,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "After summoning, deal 220 damage to a nearby enemy with an electric shock"
+  },
+  {
+    "name": "Elektra",
+    "title": "ElektraElektraNatchios",
+    "cost": 1,
+    "atk": 430,
+    "hp": 220,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "After summoning, deal 200 damage to a nearby enemy with the lowest HP utilizing assassination arts"
+  },
+  {
+    "name": "Enchantress",
+    "title": "EnchantressAmora",
+    "cost": 2,
+    "atk": 610,
+    "hp": 610,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "On every turn, entice the enemy leader to discard 1 card from their hand"
+  },
+  {
+    "name": "Falcon",
+    "title": "FalconSamuelWilson",
+    "cost": 1,
+    "atk": 320,
+    "hp": 230,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "After summoning, capture a nearby enemy whose HP is below 400 and vanish from the battlefield with that enemy"
+  },
+  {
+    "name": "Fandral",
+    "title": "FandralFandral",
+    "cost": 1,
+    "atk": 410,
+    "hp": 300,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "After summoning, increase Atk of allies on the right and left by 130 by raising their morale"
+  },
+  {
+    "name": "Fire Demon",
+    "title": "FireDemon",
+    "cost": 0,
+    "atk": 220,
+    "hp": 170,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "--"
+  },
+  {
+    "name": "Fire Demon Dragon",
+    "title": "undefined",
+    "cost": 2,
+    "atk": 420,
+    "hp": 600,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "After summoning, deal 180 damage by breathing fire on enemies in the same vertical line"
+  },
+  {
+    "name": "Fire Demon Servant",
+    "title": "FireDemonServant",
+    "cost": 0,
+    "atk": 210,
+    "hp": 110,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "--"
+  },
+  {
+    "name": "First Aid",
+    "title": "FirstAid",
+    "cost": 2,
+    "atk": "--",
+    "hp": "--",
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "Night Nurse applies first aid to all allies, adding HP to each. Remove from this battle after use"
+  },
+  {
+    "name": "Flames of the Faltine",
+    "title": "undefined",
+    "cost": 3,
+    "atk": "--",
+    "hp": "--",
+    "rarityName": "Epic",
+    "rarity": 3,
+    "ability": "Remove the special abilities of all enemies on the battlefield until the end of this battle. Deal damage to all enemies. Remove from this battle after use"
+  },
+  {
+    "name": "Foggy Nelson",
+    "title": "FoggyNelsonFranklinPNelson",
+    "cost": 0,
+    "atk": 190,
+    "hp": 140,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "--"
+  },
+  {
+    "name": "Frost Giant Berserker",
+    "title": "FrostGiantBerserker",
+    "cost": 2,
+    "atk": 530,
+    "hp": 530,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "After summoning, deal 240 damage each to enemies on right and left through a brutal club thrashing"
+  },
+  {
+    "name": "Frost Giant Grunt",
+    "title": "FrostGiantGrunt",
+    "cost": 0,
+    "atk": 180,
+    "hp": 180,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "--"
+  },
+  {
+    "name": "Frost Giant Swordsman",
+    "title": "FrostGiantSwordsman",
+    "cost": 0,
+    "atk": 220,
+    "hp": 170,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "--"
+  },
+  {
+    "name": "Gamora",
+    "title": "Gamora",
+    "cost": 2,
+    "atk": 700,
+    "hp": 360,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "When summoning, deal 230 damage each to enemies on her right and left through slashes with her Godslayer"
+  },
+  {
+    "name": "Gangster",
+    "title": "Gangster",
+    "cost": 0,
+    "atk": 210,
+    "hp": 110,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "--"
+  },
+  {
+    "name": "Ghost Rider",
+    "title": "GhostRiderJohnathonBlaze",
+    "cost": 3,
+    "atk": 550,
+    "hp": 780,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "On every turn, deal 200 damage each to all characters on a vertial line other than the one Ghost Rider is in with Hellfire"
+  },
+  {
+    "name": "Green Goblin",
+    "title": "GreenGoblinNormanOsborn",
+    "cost": 2,
+    "atk": 570,
+    "hp": 420,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "After summoning, deal XX damage by throwing a pumpkin bomb at the enemy with the lowest ATK, then deal XX damage to all characters next to target"
+  },
+  {
+    "name": "Groot",
+    "title": "undefined",
+    "cost": 2,
+    "atk": 640,
+    "hp": 910,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "After summoning, add HP to allies on the right and left"
+  },
+  {
+    "name": "Guide to the Afterlife",
+    "title": "GuideToTheAfterlife",
+    "cost": 3,
+    "atk": "--",
+    "hp": "--",
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "Select an enemy with less than X HP. Death will approach and knock them out of the battlefield. Remove from this battle after use."
+  },
+  {
+    "name": "Gwenpool",
+    "title": "GwenpoolGwenPoole",
+    "cost": 1,
+    "atk": 300,
+    "hp": 300,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "After summoning, use all remaining cosmic fragments. Deal damage equal to 200 times the amount used on all nearby enemies"
+  },
+  {
+    "name": "Hand's Master Ninja",
+    "title": "HandsMasterNinja",
+    "cost": 0,
+    "atk": 250,
+    "hp": 80,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "--"
+  },
+  {
+    "name": "Hand's Saber Ninja",
+    "title": "HandsSaberNinja",
+    "cost": 0,
+    "atk": 190,
+    "hp": 140,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "--"
+  },
+  {
+    "name": "Hand's Shadow Ninja",
+    "title": "HandsShadowNinja",
+    "cost": 0,
+    "atk": 180,
+    "hp": 180,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "--"
+  },
+  {
+    "name": "Hawkeye",
+    "title": "HawkeyeClintonBarton",
+    "cost": 1,
+    "atk": 400,
+    "hp": 300,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "After summoning, deal 160~180 damage to the enemy with the lowest HP with an arrow shot"
+  },
+  {
+    "name": "Heimdall",
+    "title": "HeimdallHeimdall",
+    "cost": 1,
+    "atk": 470,
+    "hp": 240,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "After summoning, get a distant cosmic fragment. This has a 50% success rate"
+  },
+  {
+    "name": "Hela",
+    "title": "HelaHelaOdinsdottir",
+    "cost": 3,
+    "atk": 580,
+    "hp": 1230,
+    "rarityName": "Epic",
+    "rarity": 3,
+    "ability": "On every turn, decrease own leader's health by 50 HP and the opponent leader's health by 100 HP by screaming a deadly curse"
+  },
+  {
+    "name": "Helicarrier Strike",
+    "title": "HelicarrierStrike",
+    "cost": 2,
+    "atk": "--",
+    "hp": "--",
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "The Helicarrier deals 700 damage to a selected horizontal line with an airstrike. Remove from this battle after use"
+  },
+  {
+    "name": "Hellcat",
+    "title": "HellcatPatriciaWalker",
+    "cost": 1,
+    "atk": 390,
+    "hp": 390,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "After summoning, deal 210 damage through sneak attack on the nearest enemy on the same horizontal line"
+  },
+  {
+    "name": "Hellstorm",
+    "title": "HellstormDaimonHellstrom",
+    "cost": 2,
+    "atk": 490,
+    "hp": 690,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "When Hellstorm attack in horizontal battle line, Hellstorm attacks an additional time."
+  },
+  {
+    "name": "Hogun",
+    "title": "undefined",
+    "cost": 2,
+    "atk": 680,
+    "hp": 680,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "Destroy cosmic fragments on right and left by smashing them"
+  },
+  {
+    "name": "Hulk",
+    "title": "SheHulkJenniferWalters",
+    "cost": 3,
+    "atk": 590,
+    "hp": 840,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "On every turn, attack and deal 340 damage to a nearby enemy with the highest ATK"
+  },
+  {
+    "name": "Hydra Combat Troop",
+    "title": "HydraCombatTroop",
+    "cost": 0,
+    "atk": 190,
+    "hp": 140,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "--"
+  },
+  {
+    "name": "Hydra Espionage Agent",
+    "title": "HydraEspionageAgent",
+    "cost": 0,
+    "atk": 190,
+    "hp": 140,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "--"
+  },
+  {
+    "name": "Hydra Soldier",
+    "title": "HydraSoldierBob",
+    "cost": 0,
+    "atk": 180,
+    "hp": 180,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "--"
+  },
+  {
+    "name": "Hydra Squad Leader",
+    "title": "HydraSquadLeader",
+    "cost": 0,
+    "atk": 210,
+    "hp": 210,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "--"
+  },
+  {
+    "name": "Hydra's EMP Explosive",
+    "title": "HydrasEMPExplosive",
+    "cost": "",
+    "atk": "--",
+    "hp": "--",
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "Deal damage each to every character on the battlefield by blowing an EMP bomb up. Remove from this battle after use"
+  },
+  {
+    "name": "Ikari",
+    "title": "IkariIkari",
+    "cost": 0,
+    "atk": 160,
+    "hp": 120,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "After summoning, deal 110 damage to a nearby enemy through sickle slashes"
+  },
+  {
+    "name": "Iron Fist",
+    "title": "IronFistDannyRand",
+    "cost": 1,
+    "atk": 550,
+    "hp": 280,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "After summoning, destroy 1 nearby cosmic fragment"
+  },
+  {
+    "name": "Iron Man",
+    "title": "IronManModel38TonyStark",
+    "cost": 2,
+    "atk": 530,
+    "hp": 760,
+    "rarityName": "Epic",
+    "rarity": 3,
+    "ability": "After summoning, deal 170~200 damage each to 2 enemies with smart missiles"
+  },
+  {
+    "name": "Iron Monger",
+    "title": "undefined",
+    "cost": 2,
+    "atk": 460,
+    "hp": 660,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "After summoning, deal damage each to 2 enemies with missiles"
+  },
+  {
+    "name": "Jessica Jones",
+    "title": "JessicaJonesJessicaJones",
+    "cost": 1,
+    "atk": 390,
+    "hp": 390,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "After summoning, gain 1 cosmic fragment on the field by thoroughly searching hte perimeter. This has a 50% success rate"
+  },
+  {
+    "name": "Karen Page",
+    "title": "KarenPageKarenPage",
+    "cost": 0,
+    "atk": 70,
+    "hp": 240,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "When knocked out, earn 1 cosmic fragment"
+  },
+  {
+    "name": "Kicked Out",
+    "title": "KickedOut",
+    "cost": 1,
+    "atk": "--",
+    "hp": "--",
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "Target an enemy whose ATK is below X. K.O. the enemy with a kick, and destroy the slot where the target was standing. Remove from this battle after use"
+  },
+  {
+    "name": "Kingpin",
+    "title": "KingpinWilsonFisk",
+    "cost": 1,
+    "atk": 290,
+    "hp": 410,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "After summoning, destroy 1 nearby empty slot by smashing it"
+  },
+  {
+    "name": "Kree Bomber",
+    "title": "KreeBomber",
+    "cost": 0,
+    "atk": 240,
+    "hp": 120,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "--"
+  },
+  {
+    "name": "Kree Guardian",
+    "title": "KreeGuardian",
+    "cost": 0,
+    "atk": 170,
+    "hp": 240,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "--"
+  },
+  {
+    "name": "Kree Reaper",
+    "title": "KreeReaper",
+    "cost": 0,
+    "atk": 220,
+    "hp": 170,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "--"
+  },
+  {
+    "name": "Lady Bullseye",
+    "title": "LadyBullseye",
+    "cost": 0,
+    "atk": 160,
+    "hp": 80,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "After summoning, deal 150 damage through an assault on a diagonally positioned enemy"
+  },
+  {
+    "name": "Lightning Storm",
+    "title": "undefined",
+    "cost": 2,
+    "atk": "--",
+    "hp": "--",
+    "rarityName": "Epic",
+    "rarity": 3,
+    "ability": "Randomly distribute and deal 1600 damage on all enemies on target horizontal line. Remove from this battle after use"
+  },
+  {
+    "name": "Lizard",
+    "title": "undefined",
+    "cost": 1,
+    "atk": 490,
+    "hp": 260,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "After summoning, deal damage to a nearby enemy with the lowest ATK through vicious bites"
+  },
+  {
+    "name": "Loki",
+    "title": "undefined",
+    "cost": 2,
+    "atk": 740,
+    "hp": 1050,
+    "rarityName": "Epic",
+    "rarity": 3,
+    "ability": "After summoning, magically disguise one distant ally as Loki, change their appearance and add 200 ATK 200 HP"
+  },
+  {
+    "name": "Luke Cage",
+    "title": "undefined",
+    "cost": 1,
+    "atk": 380,
+    "hp": 540,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "When damaged and not knocked out, add 120 HP"
+  },
+  {
+    "name": "Madame Hydra",
+    "title": "MadameHydraOpheliaSarkissian",
+    "cost": 1,
+    "atk": 270,
+    "hp": 380,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "After summoning, deal XX damage to a distant enemy through a pistol shot"
+  },
+  {
+    "name": "Malekith",
+    "title": "undefined",
+    "cost": 2,
+    "atk": 460,
+    "hp": 660,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "On every turn, deal 270-310 damage to an enemy by casting dark magic."
+  },
+  {
+    "name": "Man-Ape",
+    "title": "undefined",
+    "cost": 1,
+    "atk": 200,
+    "hp": 200,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "After summoning, deal damage by thrusting a spear at the nearest enemy on the same vertical line"
+  },
+  {
+    "name": "Man-Thing",
+    "title": "ManThingTheodoreSallis",
+    "cost": 0,
+    "atk": 120,
+    "hp": 170,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "On every turn, add 30 HP to self"
+  },
+  {
+    "name": "Maria Hill",
+    "title": "MariaHillMariaHill",
+    "cost": 0,
+    "atk": 150,
+    "hp": 80,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "After summoning, add 100 ATK to nearby allies"
+  },
+  {
+    "name": "Medusa",
+    "title": "MedusaMedusalithAmaquelinBoltagon",
+    "cost": 1,
+    "atk": 370,
+    "hp": 370,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "After summoning, deal 240 damage to a diagonally positioned enemy"
+  },
+  {
+    "name": "Meteor Strike",
+    "title": "undefined",
+    "cost": 3,
+    "atk": "--",
+    "hp": "--",
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "Meteors fall, dealing damage each to all characters ona  targeted 3x3 area. Remove from this battle after use"
+  },
+  {
+    "name": "Mindless Ones - Blaster",
+    "title": "undefined",
+    "cost": 1,
+    "atk": 260,
+    "hp": 540,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "--"
+  },
+  {
+    "name": "Mindless Ones - Striker",
+    "title": "MindlessOnesStriker",
+    "cost": 1,
+    "atk": 210,
+    "hp": 210,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "--"
+  },
+  {
+    "name": "Misty Knight",
+    "title": "MistyKnightMercedesKnight",
+    "cost": 2,
+    "atk": 460,
+    "hp": 460,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "On every turn, if there are enemies nearby, earn 1 cosmic fragments"
+  },
+  {
+    "name": "Moondragon",
+    "title": "MoondragonHeatherDouglas",
+    "cost": 1,
+    "atk": 500,
+    "hp": 500,
+    "rarityName": "Epic",
+    "rarity": 3,
+    "ability": "When Moondragon attacks in a vertical Battle Line, Moondragon attacks an additional time"
+  },
+  {
+    "name": "Ms. Marvel (Kamala Khan)",
+    "title": "MsMarvelKamalaKhan",
+    "cost": 1,
+    "atk": 280,
+    "hp": 390,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "After summoning, deal 220 damage each to all enemies on the same horizontal line"
+  },
+  {
+    "name": "Mysterio",
+    "title": "undefined",
+    "cost": 1,
+    "atk": 140,
+    "hp": 190,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "After summoning, decrease a nearby enemy's ATK with hypnosis"
+  },
+  {
+    "name": "Nebula",
+    "title": "Nebula",
+    "cost": 1,
+    "atk": 400,
+    "hp": 400,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "When Nebula attacks in a diagonal Battle Line, Nebula attacks an additional time"
+  },
+  {
+    "name": "Nick Fury",
+    "title": "NickFuryNicholasFuryJr",
+    "cost": 1,
+    "atk": 350,
+    "hp": 260,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "After Summoning, add 150 ATK to distant allies"
+  },
+  {
+    "name": "Night Nurse",
+    "title": "NightNurseLindaJaneCarter",
+    "cost": 0,
+    "atk": 140,
+    "hp": 50,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "After moving, add 150 HP to all nearby characters"
+  },
+  {
+    "name": "Nightmare",
+    "title": "undefined",
+    "cost": 3,
+    "atk": "",
+    "hp": "",
+    "rarityName": "Epic",
+    "rarity": 3,
+    "ability": ""
+  },
+  {
+    "name": "Nova",
+    "title": "NovaCorpsman",
+    "cost": 3,
+    "atk": 630,
+    "hp": 900,
+    "rarityName": "Epic",
+    "rarity": 3,
+    "ability": "When an enemy is summoned nearby to create a battle line, switch positions with that character. This ability is used once per match."
+  },
+  {
+    "name": "Nova Centurion",
+    "title": "undefined",
+    "cost": 0,
+    "atk": 170,
+    "hp": 600,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "--"
+  },
+  {
+    "name": "Nova Corpsman",
+    "title": "NovaCorpsman",
+    "cost": 0,
+    "atk": 140,
+    "hp": 210,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "--"
+  },
+  {
+    "name": "Nova Denarian",
+    "title": "NovaDenarian",
+    "cost": 0,
+    "atk": 120,
+    "hp": 260,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "--"
+  },
+  {
+    "name": "Nova Millennian",
+    "title": "NovaMillennian",
+    "cost": 0,
+    "atk": 140,
+    "hp": 210,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "--"
+  },
+  {
+    "name": "Nox",
+    "title": "undefined",
+    "cost": 1,
+    "atk": 430,
+    "hp": 430,
+    "rarityName": "Epic",
+    "rarity": 3,
+    "ability": "When the enemy switches a card, this characters gains ATK"
+  },
+  {
+    "name": "Odin",
+    "title": "OdinForce",
+    "cost": 3,
+    "atk": 470,
+    "hp": 1000,
+    "rarityName": "Epic",
+    "rarity": 3,
+    "ability": "Odin takes the damage dealt from an enemy Battle Line attack instead of the leader. This ability is used once per match"
+  },
+  {
+    "name": "Outrider Assassin",
+    "title": "OutriderAssassin",
+    "cost": 0,
+    "atk": 470,
+    "hp": 350,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "--"
+  },
+  {
+    "name": "Outrider Parasite",
+    "title": "OutriderParasite",
+    "cost": 0,
+    "atk": 170,
+    "hp": 240,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "--"
+  },
+  {
+    "name": "Outrider Warrior",
+    "title": "OutriderWarrior",
+    "cost": 0,
+    "atk": 250,
+    "hp": 80,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "--"
+  },
+  {
+    "name": "Owl",
+    "title": "OwlLelandOwlsley",
+    "cost": 0,
+    "atk": 220,
+    "hp": 170,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "--"
+  },
+  {
+    "name": "Pumpkin Bomb Delivery",
+    "title": "PumpkinBombDelivery",
+    "cost": 3,
+    "atk": "--",
+    "hp": "--",
+    "rarityName": "Epic",
+    "rarity": 3,
+    "ability": "Deal 800 damage each to all characters in a selected 2x2 area using Green Goblin's Pumpkin Bombs. Remove from this battle after use"
+  },
+  {
+    "name": "Punisher",
+    "title": "PunisherFrankCastle",
+    "cost": 2,
+    "atk": 530,
+    "hp": 400,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "After summoning, deal 200 damage to the enemy with the highest HP. If the enemy is distant and alone deal 500 damage instead"
+  },
+  {
+    "name": "Purple Man",
+    "title": "PurpleManZebediahKillgrave",
+    "cost": 1,
+    "atk": 430,
+    "hp": 220,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "After summoning, decrease a nearby enemy's ATK by 130 with hypnosis"
+  },
+  {
+    "name": "Radioactive Warning",
+    "title": "RadioactiveWarning",
+    "cost": 2,
+    "atk": "--",
+    "hp": "--",
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "Target an enemy. On every turn, until the target is knocked out, deal damage to target and all characters nearby them. Remove from this battle after use"
+  },
+  {
+    "name": "Ravager Gunner",
+    "title": "RavagerGunner",
+    "cost": 0,
+    "atk": 210,
+    "hp": 110,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "--"
+  },
+  {
+    "name": "Ravager Ship Crew",
+    "title": "RavagerShipCrew",
+    "cost": 0,
+    "atk": 180,
+    "hp": 180,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "--"
+  },
+  {
+    "name": "Ravager Squad Leader",
+    "title": "RavagerSquadLeader",
+    "cost": 0,
+    "atk": 220,
+    "hp": 170,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "--"
+  },
+  {
+    "name": "Red Skull",
+    "title": "RedSkullJohannShmidt",
+    "cost": 2,
+    "atk": 540,
+    "hp": 400,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "After moving, summon a hydra soldier with 200 ATK/HP at the previous position"
+  },
+  {
+    "name": "Regenerative Spores",
+    "title": "undefined",
+    "cost": 1,
+    "atk": "--",
+    "hp": "--",
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "Spray regenerative spores on target ally, adding HP to target and all nearby allies. Remove from this battle after use"
+  },
+  {
+    "name": "Rhino",
+    "title": "RhinoAlekseiMikhailovichSytsevich",
+    "cost": 1,
+    "atk": 330,
+    "hp": 470,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "Can move two slots at a time. After moving, Rhino stomps and destroys all slots on the way"
+  },
+  {
+    "name": "Rocket Raccoon",
+    "title": "RocketRaccoon",
+    "cost": 2,
+    "atk": 510,
+    "hp": 380,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "After summonoing, deal XX~XX damage and shuffle 3 enemies with explosive gravity bombs"
+  },
+  {
+    "name": "Ronan",
+    "title": "Ronan",
+    "cost": 2,
+    "atk": 430,
+    "hp": 610,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "When a character is knocked out, Ronan gains 100 ATK/HP"
+  },
+  {
+    "name": "S.H.I.E.L.D. Assault Unit",
+    "title": "SHIELDAssaultUnit",
+    "cost": 0,
+    "atk": 190,
+    "hp": 140,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "--"
+  },
+  {
+    "name": "S.H.I.E.L.D. Operations Agent",
+    "title": "SHIELDOperationsAgent",
+    "cost": 0,
+    "atk": 140,
+    "hp": 210,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "--"
+  },
+  {
+    "name": "S.H.I.E.L.D. Team Commander",
+    "title": "SHIELDTeamCommander",
+    "cost": 0,
+    "atk": 220,
+    "hp": 170,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "--"
+  },
+  {
+    "name": "S.H.I.E.L.D. Training Humanoid",
+    "title": "SHIELDTrainingHumanoid",
+    "cost": 0,
+    "atk": 180,
+    "hp": 180,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "--"
+  },
+  {
+    "name": "Sandman",
+    "title": "SandmanWilliamBaker",
+    "cost": 2,
+    "atk": 380,
+    "hp": 540,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "After summoning, decrease all nearby enemies' ATK"
+  },
+  {
+    "name": "Scorpion",
+    "title": "ScorpionMacDonaldGargan",
+    "cost": 0,
+    "atk": 240,
+    "hp": 180,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "If scorpion dealt damage to an enemy, knock them out"
+  },
+  {
+    "name": "Shadow Strike",
+    "title": "ShadowStrike",
+    "cost": 2,
+    "atk": "--",
+    "hp": "--",
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "Remove a character card that has already been played from the opponent's library for the rest of the battle. Decrease own leader's health by 400 HP. Remove from this battle after use"
+  },
+  {
+    "name": "Shang-Chi",
+    "title": "ShangChiShangChi",
+    "cost": 1,
+    "atk": 340,
+    "hp": 340,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "After summoning, deal XX~XX damage to a nearby enemy using ancient nunchaku techniques"
+  },
+  {
+    "name": "Sharpshooter's Arrow",
+    "title": "SharpshootersArrow",
+    "cost": 1,
+    "atk": "--",
+    "hp": "--",
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "Sharpshooter shoots an arrow at a selected enemy dealing 500~700 damage. Remove from this battle after use"
+  },
+  {
+    "name": "She-Hulk",
+    "title": "SheHulkJenniferWalters",
+    "cost": 1,
+    "atk": 350,
+    "hp": 730,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "On every turn, goes into a rage to add 30 ATK and 30 HP to self for every other character on the field"
+  },
+  {
+    "name": "Shocker",
+    "title": "ShockerHermanSchultz",
+    "cost": 1,
+    "atk": 360,
+    "hp": 340,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "After summoning, deal damage to a nearby enemy with an electric shock"
+  },
+  {
+    "name": "Shroud",
+    "title": "ShroudMaximillianQuincyColeridge",
+    "cost": 1,
+    "atk": 180,
+    "hp": 130,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "When knocked out, capture a nearby enemy on left or right and vanish into the Darkforce Dimension"
+  },
+  {
+    "name": "Shuri",
+    "title": "ShuriShuri",
+    "cost": 1,
+    "atk": 410,
+    "hp": 300,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "After summoning, deal 120 damage twice to the nearby enemy with highest ATK"
+  },
+  {
+    "name": "Sif",
+    "title": "undefined",
+    "cost": 1,
+    "atk": 340,
+    "hp": 340,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "After summoning, deal damage each on all nearby enemies with a swing of her sword"
+  },
+  {
+    "name": "Skeletal Archer",
+    "title": "SkeletalArcher",
+    "cost": 0,
+    "atk": 220,
+    "hp": 70,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "--"
+  },
+  {
+    "name": "Skeletal Swordsman",
+    "title": "SkeletalSwordsman",
+    "cost": 0,
+    "atk": 190,
+    "hp": 140,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "--"
+  },
+  {
+    "name": "Skurge the Executioner",
+    "title": "SkurgetheExecutionerSkurge",
+    "cost": 2,
+    "atk": 620,
+    "hp": 460,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "After summoning, deal damage each to all nearby characters with a giant axe swing"
+  },
+  {
+    "name": "Smart Missile",
+    "title": "SmartMissile",
+    "cost": 2,
+    "atk": "--",
+    "hp": "--",
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "Fire smart missiles at 2 enemies, dealing 330 damage 2 times each. Remove from this battle after use"
+  },
+  {
+    "name": "Sonic Scream",
+    "title": "undefined",
+    "cost": 2,
+    "atk": "--",
+    "hp": "--",
+    "rarityName": "Epic",
+    "rarity": 3,
+    "ability": "Deal 800 damage to all characters on a selected vertical line using Black Bolt's Sonic Scream. Remove from this battle after use"
+  },
+  {
+    "name": "Spider-Gwen",
+    "title": "SpiderGwenGwendolyneMaxineStacy",
+    "cost": 1,
+    "atk": 410,
+    "hp": 210,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "When the enemy plays an action card, earn 1 cosmic fragment on field by snagging it with spider webs"
+  },
+  {
+    "name": "Spider-Man",
+    "title": "SpiderManPeterParker",
+    "cost": 2,
+    "atk": 680,
+    "hp": 680,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "After summoning, tie up a card in the opponent's hand and make them unusable unti next turn"
+  },
+  {
+    "name": "Squirrel Girl",
+    "title": "SquirrelGirlDoreenAlleneGreen",
+    "cost": 1,
+    "atk": 370,
+    "hp": 370,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "If Squirrel Girl moves and makes a Battle Line attack, you win the game"
+  },
+  {
+    "name": "Star-Lord",
+    "title": "StarLordPeterQuill",
+    "cost": 2,
+    "atk": 700,
+    "hp": 520,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "After summoning, deal 240 damage to a distant enemy with an elemental gun"
+  },
+  {
+    "name": "Stick",
+    "title": "Stick",
+    "cost": 0,
+    "atk": 150,
+    "hp": 110,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "When the each leader plays an action cards, gain 100 ATK/HP"
+  },
+  {
+    "name": "Storm and Eradicate",
+    "title": "StormAndEradicate",
+    "cost": 1,
+    "atk": "--",
+    "hp": "--",
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "Target a cosmic fragment. Destroy both the fragment and the slot, then deal damage equal to 200 times the value of fragment to nearby characters. Remove from this battle after use"
+  },
+  {
+    "name": "Storm Summoning",
+    "title": "StormSummoning",
+    "cost": 2,
+    "atk": "--",
+    "hp": "--",
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "Summon a storm that vanishes all characters except for 1 character with mroe than 600 HP. Remove from this battle after use"
+  },
+  {
+    "name": "Suppressive Fire",
+    "title": "undefined",
+    "cost": 1,
+    "atk": "--",
+    "hp": "--",
+    "rarityName": "Epic",
+    "rarity": 3,
+    "ability": "Deal damage each to a selected cross area and reduce their ATK by 100 until the end of the turn through suppressive fire. Remove from the battle after use"
+  },
+  {
+    "name": "Surtur",
+    "title": "undefined",
+    "cost": 3,
+    "atk": 1000,
+    "hp": 740,
+    "rarityName": "Epic",
+    "rarity": 3,
+    "ability": "On every turn, change Surtur's health to full HP using power of the Eternal Flame"
+  },
+  {
+    "name": "Tactical Retrieval",
+    "title": "TacticalRetrieval",
+    "cost": 0,
+    "atk": "--",
+    "hp": "--",
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "Retrieve targeted Cosmic Fragment and add 75 HP to nearby allies. Remove from this battle after use"
+  },
+  {
+    "name": "Target Locked",
+    "title": "TargetLocked",
+    "cost": 2,
+    "atk": "--",
+    "hp": "--",
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "Hawkeye's arrow deals XX damage to a selected enemy. Remove from this battle after use"
+  },
+  {
+    "name": "Taskmaster",
+    "title": "TaskmasterTonyMasters",
+    "cost": 1,
+    "atk": 310,
+    "hp": 440,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "After summoning, deal 220 damage to an enemy on the same horizontal ligne through a tactical sword change"
+  },
+  {
+    "name": "Techno-Organic Virus",
+    "title": "undefined",
+    "cost": 0,
+    "atk": "--",
+    "hp": "--",
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "Inject the Techno-Organic Virus in a selected enemy, remove target's special ability, while also dealing 330 damage. Remove from this battle after use"
+  },
+  {
+    "name": "Thanos",
+    "title": "Thanos",
+    "cost": 3,
+    "atk": 680,
+    "hp": 970,
+    "rarityName": "Epic",
+    "rarity": 3,
+    "ability": "On every turn, attack and deal 380 damage to an enemy with the highest Atk"
+  },
+  {
+    "name": "The Collector",
+    "title": "undefined",
+    "cost": 2,
+    "atk": 560,
+    "hp": 800,
+    "rarityName": "Epic",
+    "rarity": 3,
+    "ability": "After summoning, create 2 cosmic fragments on all empty slots"
+  },
+  {
+    "name": "Thor",
+    "title": "ThorJaneFoster",
+    "cost": 3,
+    "atk": 840,
+    "hp": 840,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "On every turn, deal damage to the enemy with the highest HP through a lightning bolt strike"
+  },
+  {
+    "name": "Thor (Jane Foster)",
+    "title": "ThorJaneFoster",
+    "cost": 3,
+    "atk": 490,
+    "hp": 690,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "When you switch a card, deal 1-100 damage to the enemy with the highest HP through a lightning bolt strike"
+  },
+  {
+    "name": "Tony Stark",
+    "title": "IronManModel38TonyStark",
+    "cost": 0,
+    "atk": 220,
+    "hp": 220,
+    "rarityName": "Epic",
+    "rarity": 3,
+    "ability": "On every turn, absorb all cosmic fragments to the left and right. If fragments were absorbed 2 times, gear up to Iron-Man model 25"
+  },
+  {
+    "name": "Typhoid Mary",
+    "title": "TyphoidMaryMaryAliceWalker",
+    "cost": 0,
+    "atk": 170,
+    "hp": 130,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "After summoning, deal 100 damage to the enemy with the lowest ATK using pyrokinesis"
+  },
+  {
+    "name": "Ultron",
+    "title": "UltronBot",
+    "cost": 3,
+    "atk": 450,
+    "hp": 640,
+    "rarityName": "Epic",
+    "rarity": 3,
+    "ability": "If Ultron receives damage and is not knocked out, create an Ultron bot with teh same ATK/HP on a distant slot"
+  },
+  {
+    "name": "Ultron Bot",
+    "title": "UltronBot",
+    "cost": 1,
+    "atk": 350,
+    "hp": 260,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "After moving, create an Ultron bot with ATK/HP 150 at the previous position"
+  },
+  {
+    "name": "Umar",
+    "title": "undefined",
+    "cost": 1,
+    "atk": 440,
+    "hp": 330,
+    "rarityName": "Epic",
+    "rarity": 3,
+    "ability": "After summoning, deal damage each to all distant enemies by casting a dark spell"
+  },
+  {
+    "name": "Valkyrie",
+    "title": "undefined",
+    "cost": 2,
+    "atk": 490,
+    "hp": 690,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "When an action card targets an ally, Valkyrie becomes the target instead"
+  },
+  {
+    "name": "Venom",
+    "title": "undefined",
+    "cost": 2,
+    "atk": 460,
+    "hp": 660,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "After summoning, drain nearby enemies' HP by 80 with Symbiote Powers, then add drained HP to own HP"
+  },
+  {
+    "name": "Vision",
+    "title": "undefined",
+    "cost": 2,
+    "atk": 830,
+    "hp": 830,
+    "rarityName": "Epic",
+    "rarity": 3,
+    "ability": "Can move two slots at a time. Phases through characters to desination"
+  },
+  {
+    "name": "Viv",
+    "title": "undefined",
+    "cost": 1,
+    "atk": 440,
+    "hp": 330,
+    "rarityName": "Epic",
+    "rarity": 3,
+    "ability": "After summoning, deal damage each to all cahracters on the same vertical line by firing a solar beam"
+  },
+  {
+    "name": "Volstagg",
+    "title": "VolstaggVolstagg",
+    "cost": 2,
+    "atk": 430,
+    "hp": 610,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "When you switch a card, this character gains 20 HP"
+  },
+  {
+    "name": "War Machine",
+    "title": "WarMachineJamesRhodes",
+    "cost": 1,
+    "atk": 470,
+    "hp": 470,
+    "rarityName": "Epic",
+    "rarity": 3,
+    "ability": "After summoning, deal damage to 1 enemy with Smart Missiles"
+  },
+  {
+    "name": "Wasp",
+    "title": "WaspJanetVanDyne",
+    "cost": 1,
+    "atk": 480,
+    "hp": 360,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "After summoning, shrink down and deal damage equal to 30-50% of the enemy's HP before returning to original size"
+  },
+  {
+    "name": "Whiplash",
+    "title": "WhiplashAntonVanko",
+    "cost": 1,
+    "atk": 490,
+    "hp": 260,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "After summoning, deal 220~240 damage to a nearby enemy using electric whip"
+  },
+  {
+    "name": "White Tiger",
+    "title": "undefined",
+    "cost": 1,
+    "atk": 430,
+    "hp": 320,
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "When White Tiger moves and makes a Battle Line attack, White Tiger attacks an additional time"
+  },
+  {
+    "name": "Winter Soldier",
+    "title": "WinterSoldierJamesBuchananBarnes",
+    "cost": 2,
+    "atk": 540,
+    "hp": 400,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "When knocked out, deal 240~270 damage on all nearby enemies with bomb blasts"
+  },
+  {
+    "name": "Wong",
+    "title": "WongWong",
+    "cost": 1,
+    "atk": 410,
+    "hp": 300,
+    "rarityName": "Common",
+    "rarity": 0,
+    "ability": "--"
+  },
+  {
+    "name": "Yaka Arrows",
+    "title": "YakaArrows",
+    "cost": 1,
+    "atk": "--",
+    "hp": "--",
+    "rarityName": "Rare",
+    "rarity": 2,
+    "ability": "Shoot Yaka Arrows, dealing 400 damage 2 times to a targeted enemy. Remove from this battle after use"
+  },
+  {
+    "name": "Yellowjacket",
+    "title": "YellowjacketHenryPym",
+    "cost": 1,
+    "atk": 350,
+    "hp": 350,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "After summoning, deal 210~230 damage each to 1 diagonally placed enemy with laser blast"
+  },
+  {
+    "name": "Ymir",
+    "title": "undefined",
+    "cost": 3,
+    "atk": 630,
+    "hp": 900,
+    "rarityName": "Epic",
+    "rarity": 3,
+    "ability": "On every turn, decrease the ATK of all nearby enemies by 120 by freezing them with a gust of extreme cold"
+  },
+  {
+    "name": "Yondu",
+    "title": "YonduYonduUdonta",
+    "cost": 1,
+    "atk": 370,
+    "hp": 370,
+    "rarityName": "Uncommon",
+    "rarity": 1,
+    "ability": "After summoning, deal 230 damage by shooting Yaka arrows at the enemy with highest Atk"
+  }
+]
