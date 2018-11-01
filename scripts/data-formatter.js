@@ -13,8 +13,8 @@ let data = [];
 // They contains the actual name of the Card, use as ID and as asset name
 // Names are divided between the two files, so we merge them
 let rawhandgamedata = fs.readFileSync("data/handgamedata.json");
-let handgamedata = JSON.parse(rawhandgamedata)['slots'];
 let rawcompactgamedata = fs.readFileSync("data/compactgamedata.json");
+let handgamedata = JSON.parse(rawhandgamedata)['slots'];
 let compactgamedata = JSON.parse(rawcompactgamedata)['slots'];
 let gamedata = Object.assign(handgamedata, compactgamedata);
 
@@ -45,15 +45,19 @@ content.forEach((e) => {
     unmatchedTitles.splice(unmatchedTitles.indexOf(cardTitle), 1);
   }
 
-  if (e['Card Name'] === 'Bullseye') {
-    cardTitle = 'BullseyeLester';
-    unmatchedTitles.splice(unmatchedTitles.indexOf('BullseyeLester'), 1);
+  const replaceMistake = (name, title) => {
+    if (e['Card Name'] === name) {
+      cardTitle = title;
+      unmatchedTitles.splice(unmatchedTitles.indexOf(title), 1);
+    }
   }
 
-  if (e['Card Name'] === 'Fire Demon') {
-    cardTitle = 'FireDemon';
-    unmatchedTitles.splice(unmatchedTitles.indexOf('FireDemon'), 1);
-  }
+  replaceMistake('Bullseye', 'BullseyeLester');
+  replaceMistake('Fire Demon', 'FireDemon');
+  replaceMistake('Thor', 'ThorThorOdinson');
+  replaceMistake('Hulk', 'HulkBruceBanner');
+  replaceMistake('Ultron', 'undefined'); // To fix when I'll know the title from the rawgamedata
+  replaceMistake('Tony Stark', 'undefined'); // Same same
 
   data.push({
     'name': e['Card Name'],

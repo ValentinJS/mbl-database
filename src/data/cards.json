@@ -91,7 +91,7 @@
   },
   {
     "name": "Anti-Venom",
-    "title": "undefined",
+    "title": "AntiVenomEdwardCharlesBrock",
     "cost": 2,
     "atk": 580,
     "hp": 580,
@@ -161,7 +161,7 @@
   },
   {
     "name": "Baron's Strike",
-    "title": "undefined",
+    "title": "BaronsStrike",
     "cost": 1,
     "atk": "--",
     "hp": "--",
@@ -221,7 +221,7 @@
   },
   {
     "name": "Blade",
-    "title": "undefined",
+    "title": "BladeEricBrooks",
     "cost": 2,
     "atk": 400,
     "hp": 570,
@@ -311,7 +311,7 @@
   },
   {
     "name": "Cloak",
-    "title": "undefined",
+    "title": "CloakTyroneJohnson",
     "cost": 1,
     "atk": 200,
     "hp": 150,
@@ -441,7 +441,7 @@
   },
   {
     "name": "Destroyer",
-    "title": "undefined",
+    "title": "Destroyer",
     "cost": 3,
     "atk": 470,
     "hp": 990,
@@ -451,7 +451,7 @@
   },
   {
     "name": "Destructive Hurl",
-    "title": "undefined",
+    "title": "DestructiveHurl",
     "cost": 2,
     "atk": "--",
     "hp": "--",
@@ -480,8 +480,8 @@
     "ability": "After summoning, deal 100 damage by throwing a dagger at a distant enemy"
   },
   {
-    "name": "Doctor Octoputs",
-    "title": "undefined",
+    "name": "Doctor Octopus",
+    "title": "DoctorOctopusOttoGuntherOctavius",
     "cost": 2,
     "atk": 430,
     "hp": 430,
@@ -631,7 +631,7 @@
   },
   {
     "name": "Flames of the Faltine",
-    "title": "undefined",
+    "title": "FlamesOfTheFaltine",
     "cost": 3,
     "atk": "--",
     "hp": "--",
@@ -717,7 +717,7 @@
     "hp": 420,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "After summoning, deal XX damage by throwing a pumpkin bomb at the enemy with the lowest ATK, then deal XX damage to all characters next to target"
+    "ability": "After summoning, deal 180 damage by throwing a pumpkin bomb at the enemy with the lowest ATK, then deal 150 damage to all characters next to target"
   },
   {
     "name": "Groot",
@@ -732,7 +732,7 @@
   {
     "name": "Guide to the Afterlife",
     "title": "GuideToTheAfterlife",
-    "cost": 3,
+    "cost": 2,
     "atk": "--",
     "hp": "--",
     "rarityName": "Rare",
@@ -851,7 +851,7 @@
   },
   {
     "name": "Hulk",
-    "title": "SheHulkJenniferWalters",
+    "title": "HulkBruceBanner",
     "cost": 3,
     "atk": 590,
     "hp": 840,
@@ -902,7 +902,7 @@
   {
     "name": "Hydra's EMP Explosive",
     "title": "HydrasEMPExplosive",
-    "cost": "",
+    "cost": 0,
     "atk": "--",
     "hp": "--",
     "rarityName": "Rare",
@@ -941,7 +941,7 @@
   },
   {
     "name": "Iron Monger",
-    "title": "undefined",
+    "title": "IronMongerObadiahStane",
     "cost": 2,
     "atk": 460,
     "hp": 660,
@@ -1041,17 +1041,17 @@
   },
   {
     "name": "Lizard",
-    "title": "undefined",
+    "title": "LizardCurtisConnors",
     "cost": 1,
     "atk": 490,
     "hp": 260,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "After summoning, deal damage to a nearby enemy with the lowest ATK through vicious bites"
+    "ability": "After summoning, deal 170 damage to a nearby enemy with the lowest ATK through vicious bites"
   },
   {
     "name": "Loki",
-    "title": "undefined",
+    "title": "LokiLaufeyson",
     "cost": 2,
     "atk": 740,
     "hp": 1050,
@@ -1061,7 +1061,7 @@
   },
   {
     "name": "Luke Cage",
-    "title": "undefined",
+    "title": "LukeCage",
     "cost": 1,
     "atk": 380,
     "hp": 540,
@@ -1081,7 +1081,7 @@
   },
   {
     "name": "Malekith",
-    "title": "undefined",
+    "title": "MalekithMalekith",
     "cost": 2,
     "atk": 460,
     "hp": 660,
@@ -1091,7 +1091,7 @@
   },
   {
     "name": "Man-Ape",
-    "title": "undefined",
+    "title": "ManApeMBaku",
     "cost": 1,
     "atk": 200,
     "hp": 200,
@@ -1191,13 +1191,13 @@
   },
   {
     "name": "Mysterio",
-    "title": "undefined",
+    "title": "MysterioQuentinBeck",
     "cost": 1,
     "atk": 140,
     "hp": 190,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "After summoning, decrease a nearby enemy's ATK with hypnosis"
+    "ability": "After summoning, decrease a nearby enemy's ATK by 80 with hypnosis"
   },
   {
     "name": "Nebula",
@@ -1233,11 +1233,11 @@
     "name": "Nightmare",
     "title": "undefined",
     "cost": 3,
-    "atk": "",
-    "hp": "",
+    "atk": 730,
+    "hp": 1040,
     "rarityName": "Epic",
     "rarity": 3,
-    "ability": ""
+    "ability": "After moving, halve the HP of all enemies on the field. This ability is used once per summon"
   },
   {
     "name": "Nova",
@@ -1517,7 +1517,7 @@
     "hp": 540,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "After summoning, decrease all nearby enemies' ATK"
+    "ability": "After summoning, decrease all nearby enemies' ATK by 120"
   },
   {
     "name": "Scorpion",
@@ -1573,11 +1573,11 @@
     "name": "Shocker",
     "title": "ShockerHermanSchultz",
     "cost": 1,
-    "atk": 360,
+    "atk": 460,
     "hp": 340,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "After summoning, deal damage to a nearby enemy with an electric shock"
+    "ability": "After summoning, deal 220 damage to a nearby enemy with an electric shock"
   },
   {
     "name": "Shroud",
@@ -1601,7 +1601,7 @@
   },
   {
     "name": "Sif",
-    "title": "undefined",
+    "title": "SifSif",
     "cost": 1,
     "atk": 340,
     "hp": 340,
@@ -1811,7 +1811,7 @@
   },
   {
     "name": "Thor",
-    "title": "ThorJaneFoster",
+    "title": "ThorThorOdinson",
     "cost": 3,
     "atk": 840,
     "hp": 840,
@@ -1822,7 +1822,7 @@
   {
     "name": "Thor (Jane Foster)",
     "title": "ThorJaneFoster",
-    "cost": 3,
+    "cost": 2,
     "atk": 490,
     "hp": 690,
     "rarityName": "Rare",
@@ -1831,7 +1831,7 @@
   },
   {
     "name": "Tony Stark",
-    "title": "IronManModel38TonyStark",
+    "title": "undefined",
     "cost": 0,
     "atk": 220,
     "hp": 220,
@@ -1851,7 +1851,7 @@
   },
   {
     "name": "Ultron",
-    "title": "UltronBot",
+    "title": "undefined",
     "cost": 3,
     "atk": 450,
     "hp": 640,
@@ -1891,7 +1891,7 @@
   },
   {
     "name": "Venom",
-    "title": "undefined",
+    "title": "AntiVenomEdwardCharlesBrock",
     "cost": 2,
     "atk": 460,
     "hp": 660,
@@ -1901,7 +1901,7 @@
   },
   {
     "name": "Vision",
-    "title": "undefined",
+    "title": "VivVivVision",
     "cost": 2,
     "atk": 830,
     "hp": 830,
@@ -1911,7 +1911,7 @@
   },
   {
     "name": "Viv",
-    "title": "undefined",
+    "title": "VivVivVision",
     "cost": 1,
     "atk": 440,
     "hp": 330,

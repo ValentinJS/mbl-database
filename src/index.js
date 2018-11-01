@@ -1,27 +1,53 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
-import { Table } from 'reactstrap';
+import { Table, Modal } from 'reactstrap';
 import RawCardsData from './data/cards';
 import Navbar from './components/Navbar';
 import './index.scss';
 import * as serviceWorker from './serviceWorker';
 
-function Card(props) {
-  let image = require(`./assets/${props.title}.jpg`);
+class Card extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      modal: false
+    };
 
-  return (
-    <tr>
-      <th scope="row" className={`rarity-${props.rarity}`}>
-        <img src={image} alt={props.name} className="card-asset" />
-        {props.name}
-      </th>
-      <td className={`cost-${props.cost}`}>{props.cost}</td>
-      <td>{props.atk}</td>
-      <td>{props.hp}</td>
-      <td>{props.rarityName}</td>
-      <td>{props.ability}</td>
-    </tr>
-  );
+    this.toggle = this.toggle.bind(this);
+  }
+
+  toggle() {
+    this.setState({
+      modal: !this.state.modal
+    });
+  }
+
+  render() {
+    let image = require(`./assets/compact/${this.props.title}.jpg`);
+    let bigImage = require(`./assets/medium/undefined.jpg`);
+    try {
+      bigImage = require(`./assets/medium/${this.props.title}.jpg`);
+    } catch {
+      console.log('Oh no, missing big image for ' + this.props.name);
+    }
+
+    return (
+      <tr>
+        <th scope="row" className={`rarity-${this.props.rarity}`}>
+          <img src={image} alt={this.props.name} onClick={this.toggle} className="card-asset" />
+          {this.props.name}
+          <Modal isOpen={this.state.modal} toggle={this.toggle} className="custom-modal">
+            <img src={bigImage} alt={this.props.name} className="card-modal" />
+          </Modal>
+        </th>
+        <td className={`cost-${this.props.cost}`}>{this.props.cost}</td>
+        <td>{this.props.atk}</td>
+        <td>{this.props.hp}</td>
+        <td>{this.props.rarityName}</td>
+        <td>{this.props.ability}</td>
+      </tr>
+    );
+  }
 }
 
 class App extends Component {
@@ -164,7 +190,7 @@ class App extends Component {
           handleRarityFilter={this.handleRarityFilter}
           resetFilters={this.resetFilters}
         />
-        <Table bordered hover responsive size="sm">
+        <Table bordered hover responsive size="sm" className="card-table">
           <thead>
             <tr>
               <th>Card Name</th>

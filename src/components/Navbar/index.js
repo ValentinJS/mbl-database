@@ -16,7 +16,9 @@ import {
   Form,
   FormGroup,
   Label,
-  Input
+  Input,
+  InputGroup,
+  InputGroupAddon
 } from 'reactstrap';
 import './style.scss';
 
@@ -48,7 +50,7 @@ class Navbar extends Component {
   render() {
     return (
       <div>
-        <Nav pills>
+        <Nav pills className="fixed-top bg-light">
           <NavItem>
             <Dropdown isOpen={this.state.sortOpen} toggle={this.toggleSort}>
               <DropdownToggle caret size="sm">
@@ -64,7 +66,7 @@ class Navbar extends Component {
             </Dropdown>
           </NavItem>
           <NavItem>
-            <Dropdown>
+            <Dropdown toggle={() => {}}>
               <DropdownToggle id="Popover1" onClick={this.toggleFilter} caret size="sm">
                 Card Filters
               </DropdownToggle>
@@ -154,12 +156,16 @@ class Navbar extends Component {
             </PopoverBody>
           </Popover>
           <NavItem>
-            <Input
-              placeholder="Search a card name"
-              value={this.props.nameFilter}
-              onChange={this.props.handleNameFilter}
-              bsSize="sm"
-            />
+            <InputGroup size="sm" className="search-input">
+              <Input
+                placeholder="Search a card name"
+                value={this.props.nameFilter}
+                onChange={this.props.handleNameFilter}
+              />
+              <InputGroupAddon addonType="append">
+                <i class="input-group-text fas fa-search"></i>
+              </InputGroupAddon>
+            </InputGroup>
           </NavItem>
         </Nav>
       </div>

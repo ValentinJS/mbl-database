@@ -14,6 +14,10 @@ body {
   text-align: center;
 }
 
+.card-table {
+  margin-top:47px;
+}
+
 .cost-0 {
   background-color: #cad9fb;
 }
@@ -41,7 +45,23 @@ body {
 }
 
 .card-asset {
+  float: left;
   width: 50px;
   margin-right: 10px;
   border-radius: 7px;
+  cursor: pointer;
+}
+
+.custom-modal {
+  .modal-content {
+    background: none;
+    border: none;
+    align-items: center;
+  }
+}
+
+.card-modal {
+  width: 166px;
+  height: 230px;
+  border-radius: 15px;
 }
