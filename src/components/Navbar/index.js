@@ -5,6 +5,7 @@ import '../Slider/custom.scss';
 import {
   Nav,
   NavItem,
+  NavLink,
   Dropdown,
   DropdownItem,
   DropdownToggle,
@@ -84,7 +85,7 @@ class Navbar extends Component {
                         type="radio"
                         name="type"
                         value="all"
-                        onChange={() => this.props.handleTypeFilter('all')}
+                        onChange={(e) => this.props.handleFilter('typeFilter', e.target.value)}
                         checked={this.props.typeFilter === 'all'}
                       />
                       All
@@ -96,7 +97,7 @@ class Navbar extends Component {
                         type="radio"
                         name="type"
                         value="character"
-                        onChange={() => this.props.handleTypeFilter('character')}
+                        onChange={(e) => this.props.handleFilter('typeFilter', e.target.value)}
                         checked={this.props.typeFilter === 'character'}
                       />
                       Character
@@ -108,7 +109,7 @@ class Navbar extends Component {
                         type="radio"
                         name="type"
                         value="action"
-                        onChange={() => this.props.handleTypeFilter('action')}
+                        onChange={(e) => this.props.handleFilter('typeFilter', e.target.value)}
                         checked={this.props.typeFilter === 'action'}
                       />
                       Action
@@ -119,7 +120,7 @@ class Navbar extends Component {
                   <legend>Rarity</legend>
                   <ReactBootstrapSlider
                     value={this.props.rarityFilter}
-                    slideStop={this.props.handleRarityFilter}
+                    slideStop={(e) => this.props.handleFilter('rarityFilter', e.target.value)}
                     range="true"
                     step={1}
                     max={4}
@@ -129,14 +130,13 @@ class Navbar extends Component {
                     ticks_labels = {["Comm", "Unco", "Rare", "Epic"]}
                     ticks_snap_bounds = { 0.5 }
                     tooltip="hide"
-                    // handle="custom"
                   />
                 </FormGroup>
                 <FormGroup tag="fieldset">
                   <legend>Cost</legend>
                   <ReactBootstrapSlider
                     value={this.props.costFilter}
-                    slideStop={this.props.handleCostFilter}
+                    slideStop={(e) => this.props.handleFilter('costFilter', e.target.value)}
                     range="true"
                     step={1}
                     max={7}
@@ -160,12 +160,15 @@ class Navbar extends Component {
               <Input
                 placeholder="Search a card name"
                 value={this.props.nameFilter}
-                onChange={this.props.handleNameFilter}
+                onChange={(e) => this.props.handleFilter('nameFilter', e.target.value)}
               />
               <InputGroupAddon addonType="append">
-                <i class="input-group-text fas fa-search"></i>
+                <i className="input-group-text fas fa-search"></i>
               </InputGroupAddon>
             </InputGroup>
+          </NavItem>
+          <NavItem>
+            <NavLink href="#" onClick={this.props.switchView}>Switch view</NavLink>
           </NavItem>
         </Nav>
       </div>

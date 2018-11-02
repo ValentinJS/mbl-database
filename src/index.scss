@@ -65,3 +65,14 @@ body {
   height: 230px;
   border-radius: 15px;
 }
+
+.image-view {
+  margin-top: 55px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  img {
+    margin: 10px auto;
+    border-radius: 9px;
+  }
+}

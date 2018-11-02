@@ -10,3 +10,7 @@ li.nav-item {
     background: #fff;
   }
 }
+
+.nav-link {
+  padding: 0.2rem !important; // Bootstrap css is loaded last :/
+}

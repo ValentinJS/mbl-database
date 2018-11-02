@@ -1,54 +1,11 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
-import { Table, Modal } from 'reactstrap';
 import RawCardsData from './data/cards';
 import Navbar from './components/Navbar';
+import TableView from './components/tableView.js';
+import ImageView from './components/imageView.js';
 import './index.scss';
 import * as serviceWorker from './serviceWorker';
-
-class Card extends Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      modal: false
-    };
-
-    this.toggle = this.toggle.bind(this);
-  }
-
-  toggle() {
-    this.setState({
-      modal: !this.state.modal
-    });
-  }
-
-  render() {
-    let image = require(`./assets/compact/${this.props.title}.jpg`);
-    let bigImage = require(`./assets/medium/undefined.jpg`);
-    try {
-      bigImage = require(`./assets/medium/${this.props.title}.jpg`);
-    } catch {
-      console.log('Oh no, missing big image for ' + this.props.name);
-    }
-
-    return (
-      <tr>
-        <th scope="row" className={`rarity-${this.props.rarity}`}>
-          <img src={image} alt={this.props.name} onClick={this.toggle} className="card-asset" />
-          {this.props.name}
-          <Modal isOpen={this.state.modal} toggle={this.toggle} className="custom-modal">
-            <img src={bigImage} alt={this.props.name} className="card-modal" />
-          </Modal>
-        </th>
-        <td className={`cost-${this.props.cost}`}>{this.props.cost}</td>
-        <td>{this.props.atk}</td>
-        <td>{this.props.hp}</td>
-        <td>{this.props.rarityName}</td>
-        <td>{this.props.ability}</td>
-      </tr>
-    );
-  }
-}
 
 class App extends Component {
   constructor(props) {
@@ -58,14 +15,13 @@ class App extends Component {
       typeFilter: 'all',
       nameFilter: '',
       costFilter: [0, 7],
-      rarityFilter: [0, 4]
+      rarityFilter: [0, 4],
+      view: true
     };
     this.handleSort = this.handleSort.bind(this);
-    this.handleTypeFilter = this.handleTypeFilter.bind(this);
-    this.handleNameFilter = this.handleNameFilter.bind(this);
-    this.handleCostFilter = this.handleCostFilter.bind(this);
-    this.handleRarityFilter = this.handleRarityFilter.bind(this);
     this.resetFilters = this.resetFilters.bind(this);
+    this.switchView = this.switchView.bind(this);
+    this.handleFilter = this.handleFilter.bind(this);
   }
 
   resetFilters() {
@@ -77,27 +33,9 @@ class App extends Component {
     })
   }
 
-  handleTypeFilter(type) {
+  handleFilter(name, value) {
     this.setState({
-      typeFilter: type
-    });
-  }
-
-  handleNameFilter(event) {
-    this.setState({
-      nameFilter: event.target.value
-    });
-  }
-
-  handleCostFilter(event) {
-    this.setState({
-      costFilter: event.target.value
-    });
-  }
-
-  handleRarityFilter(event) {
-    this.setState({
-      rarityFilter: event.target.value
+      [name]: value
     });
   }
 
@@ -164,6 +102,12 @@ class App extends Component {
     return data.filter(card => card.cost >= min && card.cost < max);
   }
 
+  switchView() {
+    this.setState({
+      view: !this.state.view
+    });
+  }
+
   getCardsData() {
     let data = Object.assign([], RawCardsData);
 
@@ -181,42 +125,18 @@ class App extends Component {
           sortKey={this.state.sortKey}
           handleSort={this.handleSort}
           typeFilter={this.state.typeFilter}
-          handleTypeFilter={this.handleTypeFilter}
           nameFilter={this.state.nameFilter}
-          handleNameFilter={this.handleNameFilter}
           costFilter={this.state.costFilter}
-          handleCostFilter={this.handleCostFilter}
           rarityFilter={this.state.rarityFilter}
-          handleRarityFilter={this.handleRarityFilter}
           resetFilters={this.resetFilters}
+          handleFilter={this.handleFilter}
+          switchView={this.switchView}
         />
-        <Table bordered hover responsive size="sm" className="card-table">
-          <thead>
-            <tr>
-              <th>Card Name</th>
-              <th>Cost</th>
-              <th>ATK</th>
-              <th>HP</th>
-              <th>Rarity</th>
-              <th>Ability</th>
-            </tr>
-          </thead>
-          <tbody>
-            {cardsData.map((card, index) => (
-              <Card
-                key={card.name}
-                name={card.name}
-                cost={card.cost}
-                atk={card.atk}
-                hp={card.hp}
-                rarityName={card.rarityName}
-                rarity={card.rarity}
-                ability={card.ability}
-                title={card.title}
-              />
-            ))}
-          </tbody>
-        </Table>
+        {this.state.view ? (
+          <TableView cardsData={cardsData} />
+        ) : (
+          <ImageView cardsData={cardsData} />
+        )}
       </div>
     );
   }
