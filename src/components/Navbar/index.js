@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 import ReactBootstrapSlider from 'react-bootstrap-slider';
-import '../Slider/style.scss';
-import '../Slider/custom.scss';
 import {
   Nav,
   NavItem,
@@ -21,7 +19,6 @@ import {
   InputGroup,
   InputGroupAddon
 } from 'reactstrap';
-import './style.scss';
 
 class Navbar extends Component {
   constructor(props) {
@@ -51,7 +48,7 @@ class Navbar extends Component {
   render() {
     return (
       <div>
-        <Nav pills className="fixed-top bg-light">
+        <Nav pills className="bg-light">
           <NavItem>
             <Dropdown isOpen={this.state.sortOpen} toggle={this.toggleSort}>
               <DropdownToggle caret size="sm">

@@ -9,6 +9,7 @@ class Card extends Component {
     };
 
     this.toggle = this.toggle.bind(this);
+    this.onMediumError = this.onMediumError.bind(this);
   }
 
   toggle() {
@@ -17,9 +18,15 @@ class Card extends Component {
     });
   }
 
-  onImageError(e) {
+  onCompactError(e) {
     e.target.onerror = null;
-    e.target.src = '/images/medium/undefined.jpg';
+    e.target.src = '/images/compact/undefined.jpg';
+  }
+
+  onMediumError(e) {
+    e.target.onerror = this.onCompactError;
+    console.log(e.target.src);
+    e.target.src = e.target.src.replace('medium', 'compact');
   }
 
   render() {
@@ -34,6 +41,7 @@ class Card extends Component {
             src={image}
             alt={card.name}
             onClick={this.toggle}
+            onError={this.onCompactError}
             className="card-asset"
           />
           {card.name}
@@ -41,7 +49,7 @@ class Card extends Component {
             <img
               src={bigImage}
               alt={card.name}
-              onError={this.onImageError}
+              onError={this.onMediumError}
               className="card-modal"
             />
           </Modal>

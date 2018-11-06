@@ -1,4 +1,7 @@
 @import 'bootstrap/scss/bootstrap.scss';
+@import 'components/Slider/style.scss';
+@import 'components/Slider/custom.scss';
+@import 'components/Navbar/style.scss';
 
 body {
   margin: 0;
@@ -14,8 +17,10 @@ body {
   text-align: center;
 }
 
-.card-table {
-  margin-top:47px;
+@include media-breakpoint-up(sm) {
+  .card-table {
+    margin-top:47px;
+  }
 }
 
 .cost-0 {
@@ -67,7 +72,9 @@ body {
 }
 
 .image-view {
-  margin-top: 55px;
+  @include media-breakpoint-up(sm) {
+    margin-top: 55px;
+  }
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
@@ -76,5 +83,8 @@ body {
     border-radius: 9px;
     width: 166px;
     height: 230px;
+    &.small-fallback {
+      // padding: 35px 22px;
+    }
   }
 }

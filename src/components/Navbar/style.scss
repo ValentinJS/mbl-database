@@ -12,5 +12,15 @@ li.nav-item {
 }
 
 .nav-link {
-  padding: 0.2rem !important; // Bootstrap css is loaded last :/
+  padding: 0.2rem;
+}
+
+@include media-breakpoint-up(sm) {
+  .nav {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1031;
+  }
 }
