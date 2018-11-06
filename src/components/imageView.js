@@ -2,26 +2,22 @@ import React, { Component } from 'react';
 
 class TableView extends Component {
 
-  getImage(title, name) {
-    let image;
-    try {
-      image = require(`../assets/medium/${title}.jpg`);
-    } catch {
-      image = require(`../assets/medium/undefined.jpg`)
-      console.log('Oh no, missing big image for ' + name);
-    }
-    return image;
+  onImageError(e) {
+    e.target.onerror = null;
+    e.target.src = '/images/medium/undefined.jpg';
   }
 
   render() {
-
     return (
       <div className="image-view">
         {this.props.cardsData.map((card) => (
-          <img src={this.getImage(card.title, card.name)} alt={card.name} />
+          <img
+            src={`/images/medium/${card.title}.jpg`}
+            alt={card.name}
+            onError={this.onImageError}
+          />
         ))}
       </div>
-
     );
   }
 }

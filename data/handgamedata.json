@@ -1379,6 +1379,378 @@
         "x": 166,
         "y": 230
       }
+    },
+    "LizardCurtisConnors": {
+      "Name": "LizardCurtisConnors",
+      "Version": "1",
+      "Index": 115,
+      "DataHash": 2013158824,
+      "DataTranslateHash": 940052072,
+      "ViewHash": -548096758,
+      "SizeHash": {
+        "x": 166,
+        "y": 230
+      }
+    },
+    "BlackCatFeliciaHardy": {
+      "Name": "BlackCatFeliciaHardy",
+      "Version": "1",
+      "Index": 116,
+      "DataHash": 301899288,
+      "DataTranslateHash": 813677068,
+      "ViewHash": -642336590,
+      "SizeHash": {
+        "x": 166,
+        "y": 230
+      }
+    },
+    "BladeEricBrooks": {
+      "Name": "BladeEricBrooks",
+      "Version": "1",
+      "Index": 117,
+      "DataHash": -1383792964,
+      "DataTranslateHash": -1260950424,
+      "ViewHash": -606749611,
+      "SizeHash": {
+        "x": 166,
+        "y": 230
+      }
+    },
+    "AgentSitwellJasperSitwell": {
+      "Name": "AgentSitwellJasperSitwell",
+      "Version": "1",
+      "Index": 118,
+      "DataHash": 260636738,
+      "DataTranslateHash": 257216838,
+      "ViewHash": -222675070,
+      "SizeHash": {
+        "x": 166,
+        "y": 230
+      }
+    },
+    "PurpleManZebediahKillgrave": {
+      "Name": "PurpleManZebediahKillgrave",
+      "Version": "1",
+      "Index": 119,
+      "DataHash": 621771288,
+      "DataTranslateHash": -289383302,
+      "ViewHash": 120284076,
+      "SizeHash": {
+        "x": 166,
+        "y": 230
+      }
+    },
+    "VenomEdwardBrock": {
+      "Name": "VenomEdwardBrock",
+      "Version": "1",
+      "Index": 120,
+      "DataHash": -1014255691,
+      "DataTranslateHash": -1862330228,
+      "ViewHash": -1963940456,
+      "SizeHash": {
+        "x": 166,
+        "y": 230
+      }
+    },
+    "YonduYonduUdonta": {
+      "Name": "YonduYonduUdonta",
+      "Version": "1",
+      "Index": 121,
+      "DataHash": 210109452,
+      "DataTranslateHash": -1546306152,
+      "ViewHash": -574722413,
+      "SizeHash": {
+        "x": 166,
+        "y": 230
+      }
+    },
+    "ElectroMaxwellDillon": {
+      "Name": "ElectroMaxwellDillon",
+      "Version": "1",
+      "Index": 122,
+      "DataHash": 1218948104,
+      "DataTranslateHash": 302754234,
+      "ViewHash": -910460187,
+      "SizeHash": {
+        "x": 166,
+        "y": 230
+      }
+    },
+    "FalconSamuelWilson": {
+      "Name": "FalconSamuelWilson",
+      "Version": "1",
+      "Index": 123,
+      "DataHash": 2140610582,
+      "DataTranslateHash": -868993381,
+      "ViewHash": -1649664660,
+      "SizeHash": {
+        "x": 166,
+        "y": 230
+      }
+    },
+    "YakaArrows": {
+      "Name": "YakaArrows",
+      "Version": "1",
+      "Index": 124,
+      "DataHash": -301006915,
+      "DataTranslateHash": 440226389,
+      "ViewHash": 2075033102,
+      "SizeHash": {
+        "x": 166,
+        "y": 230
+      }
+    },
+    "HydrasEMPExplosive": {
+      "Name": "HydrasEMPExplosive",
+      "Version": "1",
+      "Index": 125,
+      "DataHash": 2070435868,
+      "DataTranslateHash": 1891514463,
+      "ViewHash": -131441295,
+      "SizeHash": {
+        "x": 166,
+        "y": 230
+      }
+    },
+    "ElektraElektraNatchios": {
+      "Name": "ElektraElektraNatchios",
+      "Version": "1",
+      "Index": 126,
+      "DataHash": 245993015,
+      "DataTranslateHash": -1617667598,
+      "ViewHash": 2040788427,
+      "SizeHash": {
+        "x": 166,
+        "y": 230
+      }
+    },
+    "RocketRaccoon": {
+      "Name": "RocketRaccoon",
+      "Version": "1",
+      "Index": 127,
+      "DataHash": 1905679479,
+      "DataTranslateHash": 110465585,
+      "ViewHash": -1066993039,
+      "SizeHash": {
+        "x": 166,
+        "y": 230
+      }
+    },
+    "ColonyOfAnts": {
+      "Name": "ColonyOfAnts",
+      "Version": "2",
+      "Index": 128,
+      "DataHash": -2085792560,
+      "DataTranslateHash": -1856979619,
+      "ViewHash": 731987723,
+      "SizeHash": {
+        "x": 166,
+        "y": 230
+      }
+    },
+    "PunisherFrankCastle": {
+      "Name": "PunisherFrankCastle",
+      "Version": "1",
+      "Index": 129,
+      "DataHash": -1243968775,
+      "DataTranslateHash": -827415551,
+      "ViewHash": -1156986365,
+      "SizeHash": {
+        "x": 166,
+        "y": 230
+      }
+    },
+    "NovaCenturion": {
+      "Name": "NovaCenturion",
+      "Version": "1",
+      "Index": 130,
+      "DataHash": -220473765,
+      "DataTranslateHash": 1841442853,
+      "ViewHash": 1919272754,
+      "SizeHash": {
+        "x": 166,
+        "y": 230
+      }
+    },
+    "NovaMillennian": {
+      "Name": "NovaMillennian",
+      "Version": "2",
+      "Index": 131,
+      "DataHash": -1420112295,
+      "DataTranslateHash": -1576690375,
+      "ViewHash": 915125934,
+      "SizeHash": {
+        "x": 166,
+        "y": 230
+      }
+    },
+    "DumDumDuganTimothyDugan": {
+      "Name": "DumDumDuganTimothyDugan",
+      "Version": "2",
+      "Index": 132,
+      "DataHash": -1354410158,
+      "DataTranslateHash": 1470217886,
+      "ViewHash": 1386953454,
+      "SizeHash": {
+        "x": 166,
+        "y": 230
+      }
+    },
+    "DoctorOctopusOttoGuntherOctavius": {
+      "Name": "DoctorOctopusOttoGuntherOctavius",
+      "Version": "1",
+      "Index": 133,
+      "DataHash": 1078950928,
+      "DataTranslateHash": 1973313164,
+      "ViewHash": -1440814612,
+      "SizeHash": {
+        "x": 166,
+        "y": 230
+      }
+    },
+    "CarnageCletusKasady": {
+      "Name": "CarnageCletusKasady",
+      "Version": "1",
+      "Index": 134,
+      "DataHash": 1386564296,
+      "DataTranslateHash": 813981846,
+      "ViewHash": 1941749440,
+      "SizeHash": {
+        "x": 166,
+        "y": 230
+      }
+    },
+    "LadyBullseye": {
+      "Name": "LadyBullseye",
+      "Version": "2",
+      "Index": 135,
+      "DataHash": -845832708,
+      "DataTranslateHash": 2035488436,
+      "ViewHash": 421294067,
+      "SizeHash": {
+        "x": 166,
+        "y": 230
+      }
+    },
+    "BlackPantherTChalla": {
+      "Name": "BlackPantherTChalla",
+      "Version": "1",
+      "Index": 136,
+      "DataHash": 866283002,
+      "DataTranslateHash": 396275793,
+      "ViewHash": -1557993277,
+      "SizeHash": {
+        "x": 166,
+        "y": 230
+      }
+    },
+    "AntManScottLang": {
+      "Name": "AntManScottLang",
+      "Version": "1",
+      "Index": 137,
+      "DataHash": 343318403,
+      "DataTranslateHash": 1305701451,
+      "ViewHash": -805361834,
+      "SizeHash": {
+        "x": 166,
+        "y": 230
+      }
+    },
+    "DiamondbackWillisStryker": {
+      "Name": "DiamondbackWillisStryker",
+      "Version": "1",
+      "Index": 138,
+      "DataHash": -2048951204,
+      "DataTranslateHash": -1383297594,
+      "ViewHash": -1824016545,
+      "SizeHash": {
+        "x": 166,
+        "y": 230
+      }
+    },
+    "DarkElfLeader": {
+      "Name": "DarkElfLeader",
+      "Version": "1",
+      "Index": 139,
+      "DataHash": -1341536658,
+      "DataTranslateHash": -1288613591,
+      "ViewHash": -250316037,
+      "SizeHash": {
+        "x": 166,
+        "y": 230
+      }
+    },
+    "HellstormDaimonHellstrom": {
+      "Name": "HellstormDaimonHellstrom",
+      "Version": "1",
+      "Index": 140,
+      "DataHash": 1049832260,
+      "DataTranslateHash": -2114379377,
+      "ViewHash": -1114234469,
+      "SizeHash": {
+        "x": 166,
+        "y": 230
+      }
+    },
+    "Ronan": {
+      "Name": "Ronan",
+      "Version": "1",
+      "Index": 141,
+      "DataHash": 1150761070,
+      "DataTranslateHash": 793527461,
+      "ViewHash": 305047339,
+      "SizeHash": {
+        "x": 166,
+        "y": 230
+      }
+    },
+    "HeimdallHeimdall": {
+      "Name": "HeimdallHeimdall",
+      "Version": "1",
+      "Index": 142,
+      "DataHash": -845925634,
+      "DataTranslateHash": -1196030826,
+      "ViewHash": 52845122,
+      "SizeHash": {
+        "x": 166,
+        "y": 230
+      }
+    },
+    "YellowjacketHenryPym": {
+      "Name": "YellowjacketHenryPym",
+      "Version": "1",
+      "Index": 143,
+      "DataHash": -1301472554,
+      "DataTranslateHash": -1970284216,
+      "ViewHash": -1144139744,
+      "SizeHash": {
+        "x": 166,
+        "y": 230
+      }
+    },
+    "FrostGiantBerserker": {
+      "Name": "FrostGiantBerserker",
+      "Version": "1",
+      "Index": 144,
+      "DataHash": -1948419957,
+      "DataTranslateHash": 1286952544,
+      "ViewHash": -1826267449,
+      "SizeHash": {
+        "x": 166,
+        "y": 230
+      }
+    },
+    "CloakTyroneJohnson": {
+      "Name": "CloakTyroneJohnson",
+      "Version": "1",
+      "Index": 145,
+      "DataHash": -371193807,
+      "DataTranslateHash": 1605138737,
+      "ViewHash": -1318998664,
+      "SizeHash": {
+        "x": 166,
+        "y": 230
+      }
     }
   },
   "Version": 2,

@@ -17,23 +17,33 @@ class Card extends Component {
     });
   }
 
+  onImageError(e) {
+    e.target.onerror = null;
+    e.target.src = '/images/medium/undefined.jpg';
+  }
+
   render() {
     let card = this.props.card;
-    let image = require(`../assets/compact/${card.title}.jpg`);
-    let bigImage = require(`../assets/medium/undefined.jpg`);
-    try {
-      bigImage = require(`../assets/medium/${card.title}.jpg`);
-    } catch {
-      console.log('Oh no, missing big image for ' + card.name);
-    }
+    let image = `/images/compact/${card.title}.jpg`;
+    let bigImage = `/images/medium/${card.title}.jpg`;
 
     return (
       <tr>
         <th scope="row" className={`rarity-${card.rarity}`}>
-          <img src={image} alt={card.name} onClick={this.toggle} className="card-asset" />
+          <img
+            src={image}
+            alt={card.name}
+            onClick={this.toggle}
+            className="card-asset"
+          />
           {card.name}
           <Modal isOpen={this.state.modal} toggle={this.toggle} className="custom-modal">
-            <img src={bigImage} alt={card.name} className="card-modal" />
+            <img
+              src={bigImage}
+              alt={card.name}
+              onError={this.onImageError}
+              className="card-modal"
+            />
           </Modal>
         </th>
         <td className={`cost-${card.cost}`}>{card.cost}</td>

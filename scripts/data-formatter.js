@@ -23,6 +23,27 @@ delete gamedata['SHIELDTrainingHumanoidStoryOnly'];
 delete gamedata['PumpkinBombDeliveryHalloween2018'];
 
 let cardTitles = Object.keys(gamedata);
+let missingTitles = [
+  'AbombRichardMilhouseJones',
+  'BaronMordoKarlAmadeusMordo',
+  'BlackBoltBlackagarBoltagon',
+  'CalamitousPortal',
+  'DoctorVoodooJerichoDrumm',
+  'DormammuDormammu',
+  'GrootGroot',
+  'LightningStorm',
+  'MindlessOnesBlaster',
+  'NightmareNightmare',
+  'NoxNyx',
+  'SurturSurtur',
+  'TheCollectorTaneleerTivan',
+  'UmarUmar',
+  'ValkyrieBrunnhilde',
+  'WhiteTigerAvaAyala',
+  'YmirYmir'
+];
+cardTitles.push(...missingTitles);
+
 let unmatchedTitles = cardTitles.slice();
 
 let rarityTable = {
@@ -36,7 +57,18 @@ content.forEach((e) => {
 
   // Match the human readable 'Card Name' from the gDoc with the ID from gamedatas
   let cardTitle = cardTitles.find((title) => {
-    return title.toLowerCase().includes(e['Card Name'].replace(/[ ()-.']/gi, '').toLowerCase())
+    switch (e['Card Name']) {
+      case 'Fire Demon Dragon':
+        return title === 'FireDragon';
+      case 'Regenerative Spores':
+        return title === 'RegenerativeSpore';
+      case 'Suppressive Fire':
+        return title === 'SupressiveFire';
+      case 'Techno-Organic Virus':
+        return title === 'PhalanxVirus';
+      default:
+        return title.toLowerCase().includes(e['Card Name'].replace(/[ ()-.']/gi, '').toLowerCase());
+    }
   });
   if (!cardTitle) {
     cardTitle = 'undefined';
@@ -56,8 +88,8 @@ content.forEach((e) => {
   replaceMistake('Fire Demon', 'FireDemon');
   replaceMistake('Thor', 'ThorThorOdinson');
   replaceMistake('Hulk', 'HulkBruceBanner');
-  replaceMistake('Ultron', 'undefined'); // To fix when I'll know the title from the rawgamedata
-  replaceMistake('Tony Stark', 'undefined'); // Same same
+  replaceMistake('Tony Stark', 'IronManWithoutSuitTonyStark');
+  replaceMistake('Ultron', 'Ultron');
 
   data.push({
     'name': e['Card Name'],

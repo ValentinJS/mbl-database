@@ -2111,6 +2111,78 @@
         "x": 120,
         "y": 160
       }
+    },
+    "VenomEdwardBrock": {
+      "Name": "VenomEdwardBrock",
+      "Version": "1",
+      "Index": 176,
+      "DataHash": -1014255691,
+      "DataTranslateHash": -1862330228,
+      "ViewHash": -314603497,
+      "SizeHash": {
+        "x": 120,
+        "y": 160
+      }
+    },
+    "HogunHogun": {
+      "Name": "HogunHogun",
+      "Version": "1",
+      "Index": 177,
+      "DataHash": -1410875200,
+      "DataTranslateHash": -333117980,
+      "ViewHash": -1527138587,
+      "SizeHash": {
+        "x": 120,
+        "y": 160
+      }
+    },
+    "IronManWithoutSuitTonyStark": {
+      "Name": "IronManWithoutSuitTonyStark",
+      "Version": "1",
+      "Index": 178,
+      "DataHash": 859849057,
+      "DataTranslateHash": 1331924186,
+      "ViewHash": -658346465,
+      "SizeHash": {
+        "x": 120,
+        "y": 160
+      }
+    },
+    "MeteorStrike": {
+      "Name": "MeteorStrike",
+      "Version": "1",
+      "Index": 179,
+      "DataHash": 1674766691,
+      "DataTranslateHash": 498148832,
+      "ViewHash": 257956206,
+      "SizeHash": {
+        "x": 120,
+        "y": 160
+      }
+    },
+    "NovaCenturion": {
+      "Name": "NovaCenturion",
+      "Version": "1",
+      "Index": 180,
+      "DataHash": -220473765,
+      "DataTranslateHash": 1841442853,
+      "ViewHash": -996921473,
+      "SizeHash": {
+        "x": 120,
+        "y": 160
+      }
+    },
+    "SonicScream": {
+      "Name": "SonicScream",
+      "Version": "1",
+      "Index": 181,
+      "DataHash": 1080585232,
+      "DataTranslateHash": 677619953,
+      "ViewHash": 520867085,
+      "SizeHash": {
+        "x": 120,
+        "y": 160
+      }
     }
   },
   "Version": 2,

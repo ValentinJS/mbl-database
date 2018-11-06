@@ -1,7 +1,7 @@
 [
   {
     "name": "A-Bomb",
-    "title": "undefined",
+    "title": "AbombRichardMilhouseJones",
     "cost": 2,
     "atk": 530,
     "hp": 760,
@@ -131,7 +131,7 @@
   },
   {
     "name": "Baron Mordo",
-    "title": "undefined",
+    "title": "BaronMordoKarlAmadeusMordo",
     "cost": 2,
     "atk": 800,
     "hp": 590,
@@ -171,7 +171,7 @@
   },
   {
     "name": "Black Bolt",
-    "title": "undefined",
+    "title": "BlackBoltBlackagarBoltagon",
     "cost": 2,
     "atk": 530,
     "hp": 760,
@@ -251,7 +251,7 @@
   },
   {
     "name": "Calamitous Portal",
-    "title": "undefined",
+    "title": "CalamitousPortal",
     "cost": 2,
     "atk": "--",
     "hp": "--",
@@ -290,8 +290,8 @@
     "ability": "After summoning, drains nearby enemies' HP by 120 with Symbiote Powers, then adds drained HP to own ATK"
   },
   {
-    "name": "Chain Lighting",
-    "title": "undefined",
+    "name": "Chain Lightning",
+    "title": "ChainLightning",
     "cost": 2,
     "atk": "--",
     "hp": "--",
@@ -501,7 +501,7 @@
   },
   {
     "name": "Doctor Voodoo",
-    "title": "undefined",
+    "title": "DoctorVoodooJerichoDrumm",
     "cost": 2,
     "atk": 760,
     "hp": 560,
@@ -511,7 +511,7 @@
   },
   {
     "name": "Dormammu",
-    "title": "undefined",
+    "title": "DormammuDormammu",
     "cost": 3,
     "atk": 470,
     "hp": 1000,
@@ -601,7 +601,7 @@
   },
   {
     "name": "Fire Demon Dragon",
-    "title": "undefined",
+    "title": "FireDragon",
     "cost": 2,
     "atk": 420,
     "hp": 600,
@@ -721,7 +721,7 @@
   },
   {
     "name": "Groot",
-    "title": "undefined",
+    "title": "GrootGroot",
     "cost": 2,
     "atk": 640,
     "hp": 910,
@@ -841,7 +841,7 @@
   },
   {
     "name": "Hogun",
-    "title": "undefined",
+    "title": "HogunHogun",
     "cost": 2,
     "atk": 680,
     "hp": 680,
@@ -1031,7 +1031,7 @@
   },
   {
     "name": "Lightning Storm",
-    "title": "undefined",
+    "title": "LightningStorm",
     "cost": 2,
     "atk": "--",
     "hp": "--",
@@ -1131,7 +1131,7 @@
   },
   {
     "name": "Meteor Strike",
-    "title": "undefined",
+    "title": "MeteorStrike",
     "cost": 3,
     "atk": "--",
     "hp": "--",
@@ -1141,7 +1141,7 @@
   },
   {
     "name": "Mindless Ones - Blaster",
-    "title": "undefined",
+    "title": "MindlessOnesBlaster",
     "cost": 1,
     "atk": 260,
     "hp": 540,
@@ -1231,7 +1231,7 @@
   },
   {
     "name": "Nightmare",
-    "title": "undefined",
+    "title": "NightmareNightmare",
     "cost": 3,
     "atk": 730,
     "hp": 1040,
@@ -1251,7 +1251,7 @@
   },
   {
     "name": "Nova Centurion",
-    "title": "undefined",
+    "title": "NovaCenturion",
     "cost": 0,
     "atk": 170,
     "hp": 600,
@@ -1291,7 +1291,7 @@
   },
   {
     "name": "Nox",
-    "title": "undefined",
+    "title": "NoxNyx",
     "cost": 1,
     "atk": 430,
     "hp": 430,
@@ -1431,7 +1431,7 @@
   },
   {
     "name": "Regenerative Spores",
-    "title": "undefined",
+    "title": "RegenerativeSpore",
     "cost": 1,
     "atk": "--",
     "hp": "--",
@@ -1651,7 +1651,7 @@
   },
   {
     "name": "Sonic Scream",
-    "title": "undefined",
+    "title": "SonicScream",
     "cost": 2,
     "atk": "--",
     "hp": "--",
@@ -1731,7 +1731,7 @@
   },
   {
     "name": "Suppressive Fire",
-    "title": "undefined",
+    "title": "SupressiveFire",
     "cost": 1,
     "atk": "--",
     "hp": "--",
@@ -1741,7 +1741,7 @@
   },
   {
     "name": "Surtur",
-    "title": "undefined",
+    "title": "SurturSurtur",
     "cost": 3,
     "atk": 1000,
     "hp": 740,
@@ -1781,7 +1781,7 @@
   },
   {
     "name": "Techno-Organic Virus",
-    "title": "undefined",
+    "title": "PhalanxVirus",
     "cost": 0,
     "atk": "--",
     "hp": "--",
@@ -1801,7 +1801,7 @@
   },
   {
     "name": "The Collector",
-    "title": "undefined",
+    "title": "TheCollectorTaneleerTivan",
     "cost": 2,
     "atk": 560,
     "hp": 800,
@@ -1831,7 +1831,7 @@
   },
   {
     "name": "Tony Stark",
-    "title": "undefined",
+    "title": "IronManWithoutSuitTonyStark",
     "cost": 0,
     "atk": 220,
     "hp": 220,
@@ -1851,7 +1851,7 @@
   },
   {
     "name": "Ultron",
-    "title": "undefined",
+    "title": "Ultron",
     "cost": 3,
     "atk": 450,
     "hp": 640,
@@ -1871,7 +1871,7 @@
   },
   {
     "name": "Umar",
-    "title": "undefined",
+    "title": "UmarUmar",
     "cost": 1,
     "atk": 440,
     "hp": 330,
@@ -1881,7 +1881,7 @@
   },
   {
     "name": "Valkyrie",
-    "title": "undefined",
+    "title": "ValkyrieBrunnhilde",
     "cost": 2,
     "atk": 490,
     "hp": 690,
@@ -1891,7 +1891,7 @@
   },
   {
     "name": "Venom",
-    "title": "AntiVenomEdwardCharlesBrock",
+    "title": "VenomEdwardBrock",
     "cost": 2,
     "atk": 460,
     "hp": 660,
@@ -1961,7 +1961,7 @@
   },
   {
     "name": "White Tiger",
-    "title": "undefined",
+    "title": "WhiteTigerAvaAyala",
     "cost": 1,
     "atk": 430,
     "hp": 320,
@@ -2011,7 +2011,7 @@
   },
   {
     "name": "Ymir",
-    "title": "undefined",
+    "title": "YmirYmir",
     "cost": 3,
     "atk": 630,
     "hp": 900,
