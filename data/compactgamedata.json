@@ -2291,6 +2291,18 @@
         "x": 120,
         "y": 160
       }
+    },
+    "MindlessOnesBlaster": {
+      "Name": "MindlessOnesBlaster",
+      "Version": "1",
+      "Index": 191,
+      "DataHash": 1845977318,
+      "DataTranslateHash": 482114535,
+      "ViewHash": 1292055154,
+      "SizeHash": {
+        "x": 120,
+        "y": 160
+      }
     }
   },
   "Version": 2,

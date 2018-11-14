@@ -460,7 +460,7 @@
       "Name": "FirstAid",
       "Version": "1",
       "Index": 38,
-      "DataHash": -1241788823,
+      "DataHash": -274073932,
       "DataTranslateHash": 1772075800,
       "ViewHash": -748032434,
       "SizeHash": {
@@ -674,9 +674,9 @@
     },
     "MedusaMedusalithAmaquelinBoltagon": {
       "Name": "MedusaMedusalithAmaquelinBoltagon",
-      "Version": "1",
+      "Version": "2",
       "Index": 56,
-      "DataHash": 2147156323,
+      "DataHash": -404178535,
       "DataTranslateHash": -790554138,
       "ViewHash": 1109291532,
       "SizeHash": {
@@ -722,9 +722,9 @@
     },
     "NickFuryNicholasFuryJr": {
       "Name": "NickFuryNicholasFuryJr",
-      "Version": "1",
+      "Version": "2",
       "Index": 60,
-      "DataHash": -1543282725,
+      "DataHash": -1502447318,
       "DataTranslateHash": -1103662203,
       "ViewHash": 1303566002,
       "SizeHash": {
@@ -758,9 +758,9 @@
     },
     "BlackWidowNatashaAlianovaRomanova": {
       "Name": "BlackWidowNatashaAlianovaRomanova",
-      "Version": "1",
+      "Version": "2",
       "Index": 63,
-      "DataHash": 1101561612,
+      "DataHash": 243045838,
       "DataTranslateHash": -518346457,
       "ViewHash": -103097501,
       "SizeHash": {
@@ -820,7 +820,7 @@
       "Name": "ManThingTheodoreSallis",
       "Version": "2",
       "Index": 68,
-      "DataHash": -2084585263,
+      "DataHash": -786559180,
       "DataTranslateHash": -1038023713,
       "ViewHash": -1243291004,
       "SizeHash": {
@@ -868,7 +868,7 @@
       "Name": "HellcatPatriciaWalker",
       "Version": "1",
       "Index": 72,
-      "DataHash": -1834966178,
+      "DataHash": -1625957075,
       "DataTranslateHash": 19459956,
       "ViewHash": 2009627189,
       "SizeHash": {
@@ -902,9 +902,9 @@
     },
     "UltronBot": {
       "Name": "UltronBot",
-      "Version": "1",
+      "Version": "2",
       "Index": 75,
-      "DataHash": -1207489187,
+      "DataHash": -1005755616,
       "DataTranslateHash": -248774072,
       "ViewHash": 1904601784,
       "SizeHash": {
@@ -928,7 +928,7 @@
       "Name": "KickedOut",
       "Version": "1",
       "Index": 77,
-      "DataHash": -1861711104,
+      "DataHash": -1963265780,
       "DataTranslateHash": 1104219551,
       "ViewHash": -954020404,
       "SizeHash": {
@@ -988,7 +988,7 @@
       "Name": "CrimsonHawks",
       "Version": "1",
       "Index": 82,
-      "DataHash": -2118407983,
+      "DataHash": -1933786981,
       "DataTranslateHash": -2086536197,
       "ViewHash": 623217678,
       "SizeHash": {
@@ -1120,7 +1120,7 @@
       "Name": "DarkElfSoldier",
       "Version": "1",
       "Index": 93,
-      "DataHash": -2085801273,
+      "DataHash": 480540566,
       "DataTranslateHash": 991118319,
       "ViewHash": 701484697,
       "SizeHash": {
@@ -1130,9 +1130,9 @@
     },
     "WinterSoldierJamesBuchananBarnes": {
       "Name": "WinterSoldierJamesBuchananBarnes",
-      "Version": "1",
+      "Version": "2",
       "Index": 94,
-      "DataHash": 1091571705,
+      "DataHash": -233358756,
       "DataTranslateHash": -463343592,
       "ViewHash": -322155338,
       "SizeHash": {
@@ -1180,7 +1180,7 @@
       "Name": "DeathlokLutherManning",
       "Version": "1",
       "Index": 98,
-      "DataHash": -253935290,
+      "DataHash": -1748696398,
       "DataTranslateHash": 205737629,
       "ViewHash": 1979184387,
       "SizeHash": {
@@ -1226,9 +1226,9 @@
     },
     "NovaDenarian": {
       "Name": "NovaDenarian",
-      "Version": "1",
+      "Version": "2",
       "Index": 102,
-      "DataHash": -1231956279,
+      "DataHash": 827268243,
       "DataTranslateHash": -1558705732,
       "ViewHash": 298018766,
       "SizeHash": {
@@ -1276,7 +1276,7 @@
       "Name": "CleaCleaStrange",
       "Version": "1",
       "Index": 106,
-      "DataHash": -777372700,
+      "DataHash": 1085833808,
       "DataTranslateHash": -232775755,
       "ViewHash": 653391443,
       "SizeHash": {
@@ -1360,7 +1360,7 @@
       "Name": "EnchantressAmora",
       "Version": "1",
       "Index": 113,
-      "DataHash": 1484810169,
+      "DataHash": 2110506243,
       "DataTranslateHash": 338466243,
       "ViewHash": -241585821,
       "SizeHash": {
@@ -1516,7 +1516,7 @@
       "Name": "ElektraElektraNatchios",
       "Version": "1",
       "Index": 126,
-      "DataHash": 245993015,
+      "DataHash": 1160634758,
       "DataTranslateHash": -1617667598,
       "ViewHash": 2040788427,
       "SizeHash": {
@@ -1552,7 +1552,7 @@
       "Name": "PunisherFrankCastle",
       "Version": "2",
       "Index": 129,
-      "DataHash": -1243968775,
+      "DataHash": -1846351544,
       "DataTranslateHash": -827415551,
       "ViewHash": -1156986365,
       "SizeHash": {
@@ -1600,7 +1600,7 @@
       "Name": "DoctorOctopusOttoGuntherOctavius",
       "Version": "1",
       "Index": 133,
-      "DataHash": 1078950928,
+      "DataHash": -546913281,
       "DataTranslateHash": 1973313164,
       "ViewHash": -1440814612,
       "SizeHash": {
@@ -1648,7 +1648,7 @@
       "Name": "AntManScottLang",
       "Version": "1",
       "Index": 137,
-      "DataHash": 343318403,
+      "DataHash": -1395125050,
       "DataTranslateHash": 1305701451,
       "ViewHash": -805361834,
       "SizeHash": {
@@ -1742,9 +1742,9 @@
     },
     "CloakTyroneJohnson": {
       "Name": "CloakTyroneJohnson",
-      "Version": "1",
+      "Version": "2",
       "Index": 145,
-      "DataHash": -371193807,
+      "DataHash": -812882926,
       "DataTranslateHash": 1605138737,
       "ViewHash": -1318998664,
       "SizeHash": {
@@ -1903,6 +1903,102 @@
       "DataHash": -293275450,
       "DataTranslateHash": -11312907,
       "ViewHash": 424093637,
+      "SizeHash": {
+        "x": 166,
+        "y": 230
+      }
+    },
+    "Badcop": {
+      "Name": "Badcop",
+      "Version": "2",
+      "Index": 159,
+      "DataHash": 361376714,
+      "DataTranslateHash": 1576683116,
+      "ViewHash": 511651182,
+      "SizeHash": {
+        "x": 166,
+        "y": 230
+      }
+    },
+    "FandralFandral": {
+      "Name": "FandralFandral",
+      "Version": "1",
+      "Index": 160,
+      "DataHash": -801850643,
+      "DataTranslateHash": 1172377044,
+      "ViewHash": 692284530,
+      "SizeHash": {
+        "x": 166,
+        "y": 230
+      }
+    },
+    "ShuriShuri": {
+      "Name": "ShuriShuri",
+      "Version": "1",
+      "Index": 161,
+      "DataHash": -550398709,
+      "DataTranslateHash": 857372910,
+      "ViewHash": 1551932768,
+      "SizeHash": {
+        "x": 166,
+        "y": 230
+      }
+    },
+    "OwlLelandOwlsley": {
+      "Name": "OwlLelandOwlsley",
+      "Version": "2",
+      "Index": 162,
+      "DataHash": 1282480180,
+      "DataTranslateHash": -4100667,
+      "ViewHash": -1943366991,
+      "SizeHash": {
+        "x": 166,
+        "y": 230
+      }
+    },
+    "IronMongerObadiahStane": {
+      "Name": "IronMongerObadiahStane",
+      "Version": "1",
+      "Index": 163,
+      "DataHash": -1613987598,
+      "DataTranslateHash": 1481465605,
+      "ViewHash": -641643580,
+      "SizeHash": {
+        "x": 166,
+        "y": 230
+      }
+    },
+    "MeteorStrike": {
+      "Name": "MeteorStrike",
+      "Version": "1",
+      "Index": 164,
+      "DataHash": -845256018,
+      "DataTranslateHash": 498148832,
+      "ViewHash": 135255254,
+      "SizeHash": {
+        "x": 166,
+        "y": 230
+      }
+    },
+    "MalekithMalekith": {
+      "Name": "MalekithMalekith",
+      "Version": "1",
+      "Index": 165,
+      "DataHash": 1425573399,
+      "DataTranslateHash": 1337319807,
+      "ViewHash": 224944263,
+      "SizeHash": {
+        "x": 166,
+        "y": 230
+      }
+    },
+    "MindlessOnesBlaster": {
+      "Name": "MindlessOnesBlaster",
+      "Version": "1",
+      "Index": 166,
+      "DataHash": 1845977318,
+      "DataTranslateHash": 482114535,
+      "ViewHash": -99917149,
       "SizeHash": {
         "x": 166,
         "y": 230
