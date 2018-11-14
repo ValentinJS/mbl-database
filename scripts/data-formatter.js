@@ -25,22 +25,14 @@ delete gamedata['PumpkinBombDeliveryHalloween2018'];
 let cardTitles = Object.keys(gamedata);
 let missingTitles = [
   'AbombRichardMilhouseJones',
-  'BaronMordoKarlAmadeusMordo',
-  'BlackBoltBlackagarBoltagon',
   'CalamitousPortal',
   'DoctorVoodooJerichoDrumm',
   'DormammuDormammu',
   'GrootGroot',
-  'LightningStorm',
   'MindlessOnesBlaster',
   'NightmareNightmare',
-  'NoxNyx',
-  'SurturSurtur',
   'TheCollectorTaneleerTivan',
-  'UmarUmar',
-  'ValkyrieBrunnhilde',
-  'WhiteTigerAvaAyala',
-  'YmirYmir'
+  'WhiteTigerAvaAyala'
 ];
 cardTitles.push(...missingTitles);
 
@@ -90,6 +82,7 @@ content.forEach((e) => {
   replaceMistake('Hulk', 'HulkBruceBanner');
   replaceMistake('Tony Stark', 'IronManWithoutSuitTonyStark');
   replaceMistake('Ultron', 'Ultron');
+  replaceMistake('Vision', 'undefined');
 
   data.push({
     'name': e['Card Name'],

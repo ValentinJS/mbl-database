@@ -20,9 +20,9 @@
     "reactstrap": "^6.5.0"
   },
   "scripts": {
-    "start": "npm run data && react-scripts start",
-    "build": "npm run data && react-scripts build",
-    "test": "npm run data && react-scripts test",
+    "start": "yarn run data && react-scripts start",
+    "build": "yarn run data && react-scripts build",
+    "test": "yarn run data && react-scripts test",
     "eject": "react-scripts eject",
     "data": "node scripts/data-formatter.js",
     "images": "node scripts/image-checker.js"
