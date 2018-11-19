@@ -1,22 +1,15 @@
 import React, { Component } from 'react';
 
 class TableView extends Component {
-  constructor(props) {
-    super(props);
 
-    this.onImageError = this.onImageError.bind(this);
-  }
-
-  onImageError(e) {
-    e.target.onerror = this.imageFallback;
-    e.target.src = e.target.src.replace('medium', 'compact');
-    e.target.className = 'small-fallback';
-  }
-
-  imageFallback(e) {
-    e.target.onerror = null;
-    e.target.src = '/images/medium/undefined.jpg';
-    e.target.className = '';
+  getImageSrc(card) {
+    if (card.images.medium) {
+      return `/images/medium/${card.title}.jpg`;
+    } else if (card.images.compact) {
+      return `/images/compact/${card.title}.jpg`;
+    } else {
+      return '/images/medium/undefined.jpg';
+    }
   }
 
   render() {
@@ -25,9 +18,9 @@ class TableView extends Component {
         {this.props.cardsData.map((card) => (
           <img
             key={card.name}
-            src={`/images/medium/${card.title}.jpg`}
+            src={this.getImageSrc(card)}
             alt={card.name}
-            onError={this.onImageError}
+            className={!card.images.medium && card.images.compact ? 'small-fallback' : ''}
           />
         ))}
       </div>

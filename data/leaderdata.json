@@ -1,0 +1,79 @@
+[
+  {
+    "Leader Name": "Black Panther",
+    "Additional Leader HP": 200,
+    "Leader Procurement": "Reach leader level 25",
+    "Leader Description\n(in-game description)": "200 additional Leader HP. On every turn, if Leader HP is lower than 600, deal 50 damage to all enemies on battlefield",
+    "Ability Explanation": "The 50 damage occurs at the start of your turn"
+  },
+  {
+    "Leader Name": "Black Widow",
+    "Additional Leader HP": 100,
+    "Leader Procurement": "Complete campaign chapter  2-10",
+    "Leader Description\n(in-game description)": "100 additional leader HP. Add 30-70 HP to characters with 0 cost through S.H.I.E.L.D.'s training program",
+    "Ability Explanation": "The additional HP is a buff occurring right after casting a character"
+  },
+  {
+    "Leader Name": "Captain Marvel",
+    "Additional Leader HP": 400,
+    "Leader Procurement": "Complete spec ops Hard 4-10",
+    "Leader Description\n(in-game description)": "400 additional Leader HP. Add 150 ATK to all allies after a successful Battle Line Attack",
+    "Ability Explanation": "The additional ATK occurs after your character moves, after battle damage resolution, and after battle line resolution"
+  },
+  {
+    "Leader Name": "Iron Man",
+    "Additional Leader HP": 400,
+    "Leader Procurement": "Complete campaign chapter 2-3",
+    "Leader Description\n(in-game description)": "400 additional Leader HP. On every turn, if owned cosmic fragments are 4 or more, increase value of a cosmic fragments on field by 1",
+    "Ability Explanation": "The cosmic fragment value increase occurs at the start of your turn and randomly targets 1 fragment on the field"
+  },
+  {
+    "Leader Name": "Spider-Man",
+    "Additional Leader HP": 200,
+    "Leader Procurement": "Complete spec ops Normal 1-10",
+    "Leader Description\n(in-game description)": "200 additional Leader HP. On every turn, if one or more enemies are recharging on battlefiled, take 1 cosmic fragment from opponent",
+    "Ability Explanation": "The fragment theft occurs at the start of your turn"
+  },
+  {
+    "Leader Name": "Spider-Man \n(Black Suit)",
+    "Additional Leader HP": 200,
+    "Leader Procurement": "7-day Check-In Challenge in the \"Event Portal\" expiring 2018Nov07",
+    "Leader Description\n(in-game description)": "200 additional Leader HP. On every turn, if one or more enemies are recharging on battlefiled, take 1 cosmic fragment from opponent",
+    "Ability Explanation": "Same as Spider-Man"
+  },
+  {
+    "Leader Name": "Star-Lord",
+    "Additional Leader HP": 200,
+    "Leader Procurement": "Reach arena rank 3",
+    "Leader Description\n(in-game description)": "200 additional Leader HP. Add 70-100 HP to an ally after using a card with cost 2 or higher",
+    "Ability Explanation": "The additional HP is a buff occurring right after casting a 2-cost card"
+  },
+  {
+    "Leader Name": "Thanos",
+    "Additional Leader HP": 500,
+    "Leader Procurement": "Reach arena rank 6",
+    "Leader Description\n(in-game description)": "500 additional Leader HP. On every turn, consume 6 cosmic fragments to instantly knock out all enemies",
+    "Ability Explanation": "The 6 fragments are consumed at the start of your turn and all enemy characters are deleted. Your characters are not affected."
+  },
+  {
+    "Leader Name": "Thor",
+    "Additional Leader HP": 300,
+    "Leader Procurement": "Complete campaign chapter 3-10",
+    "Leader Description\n(in-game description)": "300 additional Leader HP. Deal 50-100 damage to an enemy after moving an ally",
+    "Ability Explanation": "The 50-100 damage occurs after your character moves, and after battle damage resolution"
+  },
+  {
+    "Leader Name": "Venom",
+    "Additional Leader HP": 0,
+    "Leader Procurement": "Complete spec ops Hard 1-10",
+    "Leader Description\n(in-game description)": "On every turn, decrease own leader HP by 150-200. Add 100 ATK to all allies with Symbiote Powers.",
+    "Ability Explanation": "The self damage occurs at the start of your turn and will drain to 1 HP but cannot kill your own leader.  The additional 100 ATK lasts throughout the battle and occurs right after a character is placed on the field, occurring only once."
+  },
+  {
+    "Leader Name": "Wasp",
+    "Additional Leader HP": 100,
+    "Leader Procurement": "Complete spec ops Normal 3-10",
+    "Leader Description\n(in-game description)": "100 additional Leader HP. Action cards that are removed from game after use may return to library at 15% chance",
+    "Ability Explanation": "If the action card succesfully returned to your library, a translucent yellow shield briefly appears right after casting an action card, but before the action card animates"
+  }
+]

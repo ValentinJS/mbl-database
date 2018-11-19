@@ -9,7 +9,6 @@ class Card extends Component {
     };
 
     this.toggle = this.toggle.bind(this);
-    this.onMediumError = this.onMediumError.bind(this);
   }
 
   toggle() {
@@ -18,38 +17,37 @@ class Card extends Component {
     });
   }
 
-  onCompactError(e) {
-    e.target.onerror = null;
-    e.target.src = '/images/compact/undefined.jpg';
+  getCompactImg(card) {
+    if (card.images.compact) {
+      return `/images/compact/${card.title}.jpg`;
+    }
+    return '/images/compact/undefined.jpg';
   }
 
-  onMediumError(e) {
-    e.target.onerror = this.onCompactError;
-    console.log(e.target.src);
-    e.target.src = e.target.src.replace('medium', 'compact');
+  getMediumImg(card) {
+    if (card.images.medium) {
+      return `/images/medium/${card.title}.jpg`;
+    }
+    return this.getCompactImg(card);
   }
 
   render() {
     let card = this.props.card;
-    let image = `/images/compact/${card.title}.jpg`;
-    let bigImage = `/images/medium/${card.title}.jpg`;
 
     return (
       <tr>
         <th scope="row" className={`rarity-${card.rarity}`}>
           <img
-            src={image}
+            src={this.getCompactImg(card)}
             alt={card.name}
             onClick={this.toggle}
-            onError={this.onCompactError}
             className="card-asset"
           />
           {card.name}
           <Modal isOpen={this.state.modal} toggle={this.toggle} className="custom-modal">
             <img
-              src={bigImage}
+              src={this.getMediumImg(card)}
               alt={card.name}
-              onError={this.onMediumError}
               className="card-modal"
             />
           </Modal>

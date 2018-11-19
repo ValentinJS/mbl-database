@@ -14,9 +14,13 @@ let data = [];
 // Names are divided between the two files, so we merge them
 let rawhandgamedata = fs.readFileSync("data/handgamedata.json");
 let rawcompactgamedata = fs.readFileSync("data/compactgamedata.json");
+let rawfulldata = fs.readFileSync("data/fulldata.json");
 let handgamedata = JSON.parse(rawhandgamedata)['slots'];
 let compactgamedata = JSON.parse(rawcompactgamedata)['slots'];
+let fulldata = JSON.parse(rawfulldata);
 let gamedata = Object.assign(handgamedata, compactgamedata);
+
+
 
 // Fix some mistakes
 delete gamedata['SHIELDTrainingHumanoidStoryOnly'];
@@ -84,6 +88,34 @@ content.forEach((e) => {
   replaceMistake('Ultron', 'Ultron');
   replaceMistake('Vision', 'undefined');
 
+  let fullCard = fulldata.find((card) => {
+    return card['Card Name'] === e['Card Name']
+  });
+
+  let abilityTypes = [];
+  if (fullCard['Ability 1 Description']) {
+    abilityTypes.push(fullCard['Ability 1 Description']);
+  }
+  if (fullCard['Ability 2 Description']) {
+    abilityTypes.push(fullCard['Ability 2 Description']);
+  }
+
+  let images = {};
+  try {
+    fs.readFileSync(`public/images/compact/${cardTitle}.jpg`);
+    images['compact'] = true;
+  } catch (err) {
+    images['compact'] = false;
+    console.log("Missing Compact image for " + e['Card Name']);
+  }
+  try {
+    fs.readFileSync(`public/images/medium/${cardTitle}.jpg`);
+    images['medium'] = true;
+  } catch (err) {
+    images['medium'] = false;
+    console.log("Missing Medium image for " + e['Card Name']);
+  }
+
   data.push({
     'name': e['Card Name'],
     'title': cardTitle,
@@ -92,8 +124,14 @@ content.forEach((e) => {
     'hp': e['HP lvl1'],
     'rarityName': e['Rarity'],
     'rarity': rarityTable[e['Rarity']],
-    'ability': e['Ability lvl1']
+    'ability': e['Ability lvl1'],
+    'team': fullCard['Team Affiliation Name'],
+    'collection': fullCard['Card Collection Name'],
+    'ability_types': abilityTypes,
+    'images': images
   });
+
+
 });
 
 data.sort((a,b) => a['name'].localeCompare(b['name']));

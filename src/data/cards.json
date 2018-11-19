@@ -7,7 +7,16 @@
     "hp": 760,
     "rarityName": "Epic",
     "rarity": 3,
-    "ability": "After summoning, deal damage to the nearest enemy on the same vertical line by charging into them, then deal damage to all enemies nearby target"
+    "ability": "After summoning, deal damage to the nearest enemy on the same vertical line by charging into them, then deal damage to all enemies nearby target",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": false,
+      "medium": false
+    }
   },
   {
     "name": "Absorbing Man",
@@ -17,7 +26,16 @@
     "hp": 390,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "After summoning, change own HP to that of nearby character with highest HP through absorption"
+    "ability": "After summoning, change own HP to that of nearby character with highest HP through absorption",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Increase HP on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Adam Warlock",
@@ -27,7 +45,16 @@
     "hp": 1200,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "Will not need to recharge after making a Battle Line"
+    "ability": "Will not need to recharge after making a Battle Line",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Recharge: Negated"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Agamotto",
@@ -37,7 +64,16 @@
     "hp": 1040,
     "rarityName": "Epic",
     "rarity": 3,
-    "ability": "After moving, split into two characters, each with half HP of the original"
+    "ability": "After moving, split into two characters, each with half HP of the original",
+    "team": "Masters of the Mystic Arts",
+    "collection": "The Origin",
+    "ability_types": [
+      "Unique: Create copy on move"
+    ],
+    "images": {
+      "compact": true,
+      "medium": false
+    }
   },
   {
     "name": "Agent 13",
@@ -47,7 +83,14 @@
     "hp": 110,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "--"
+    "ability": "--",
+    "team": "SHIELD",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Agent Coulson",
@@ -57,7 +100,16 @@
     "hp": 290,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "When summoned, if allies do not occupy the battlefield, summon a shield agent with ATK/HP 80 on a nearby slot"
+    "ability": "When summoned, if allies do not occupy the battlefield, summon a shield agent with ATK/HP 80 on a nearby slot",
+    "team": "SHIELD",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Summon on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Agent Sitwell",
@@ -67,7 +119,16 @@
     "hp": 240,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "When summoned, if allies do not occupy the battlefield, summon a shield agent with ATK/HP 100 on a distant slot"
+    "ability": "When summoned, if allies do not occupy the battlefield, summon a shield agent with ATK/HP 100 on a distant slot",
+    "team": "SHIELD",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Summon on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Ancient One",
@@ -77,7 +138,16 @@
     "hp": 780,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "On every turn, increase the quantity of cosmic fragments on the field through magic"
+    "ability": "On every turn, increase the quantity of cosmic fragments on the field through magic",
+    "team": "Masters of the Mystic Arts",
+    "collection": "The Origin",
+    "ability_types": [
+      "Fragment: Create on turn"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Ant-Man (Scott Lang)",
@@ -87,7 +157,16 @@
     "hp": 290,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "After summoning, deal 140~170 damage each to all nearby enemies by dealing a massive attack"
+    "ability": "After summoning, deal 140~170 damage each to all nearby enemies by dealing a massive attack",
+    "team": "Avengers",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Anti-Venom",
@@ -97,7 +176,16 @@
     "hp": 580,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "After summoning, add HP to nearby allies through healing"
+    "ability": "After summoning, add HP to nearby allies through healing",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Increase HP on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Armadillo",
@@ -107,7 +195,16 @@
     "hp": 540,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "This character is immune to attack damage"
+    "ability": "This character is immune to attack damage",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Unique: Immune to attack damage"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Asgardian Healing Chalice",
@@ -117,7 +214,17 @@
     "hp": "--",
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "Add 330 HP to target by applying Asgardian medicine. Changes target's ATK to 200 as a side effect. Remove from this battle after use"
+    "ability": "Add 330 HP to target by applying Asgardian medicine. Changes target's ATK to 200 as a side effect. Remove from this battle after use",
+    "team": "Asgardians",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Increase HP on summon",
+      "Unique: Character decrease ATK to 200"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Bad Cop",
@@ -127,7 +234,14 @@
     "hp": 210,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "--"
+    "ability": "--",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Baron Mordo",
@@ -137,7 +251,16 @@
     "hp": 590,
     "rarityName": "Epic",
     "rarity": 3,
-    "ability": "When Baron Mordo knocks out an enemy, deal damage equal to that enemy's ATK to the enemy leader"
+    "ability": "When Baron Mordo knocks out an enemy, deal damage equal to that enemy's ATK to the enemy leader",
+    "team": "Masters of the Mystic Arts",
+    "collection": "The Origin",
+    "ability_types": [
+      "Unique: Damage leader on kill"
+    ],
+    "images": {
+      "compact": true,
+      "medium": false
+    }
   },
   {
     "name": "Baron Strucker",
@@ -147,7 +270,16 @@
     "hp": 230,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "After summoning, destroy 1 nearby cosmic fragment"
+    "ability": "After summoning, destroy 1 nearby cosmic fragment",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Fragment: Destroy on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": false
+    }
   },
   {
     "name": "Baron Zemo",
@@ -157,7 +289,16 @@
     "hp": 470,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "After summoning, strategically destroy 1 nearby empty slot"
+    "ability": "After summoning, strategically destroy 1 nearby empty slot",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Slot: Destroy on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Baron's Strike",
@@ -167,7 +308,16 @@
     "hp": "--",
     "rarityName": "Epic",
     "rarity": 3,
-    "ability": "Deal damage to the enemy with the highest ATK. Deal damage to the enermy with the highest HP. Remove from this battle after use"
+    "ability": "Deal damage to the enemy with the highest ATK. Deal damage to the enermy with the highest HP. Remove from this battle after use",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": false
+    }
   },
   {
     "name": "Black Bolt",
@@ -177,7 +327,16 @@
     "hp": 760,
     "rarityName": "Epic",
     "rarity": 3,
-    "ability": "After summoning, deal damage each to all enemies on the same vertical line by screaming a sonic wave at them"
+    "ability": "After summoning, deal damage each to all enemies on the same vertical line by screaming a sonic wave at them",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": false
+    }
   },
   {
     "name": "Black Cat",
@@ -187,7 +346,16 @@
     "hp": 210,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "After moving, gain 1 nearby Cosmic Fragment from the field"
+    "ability": "After moving, gain 1 nearby Cosmic Fragment from the field",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Fragment: Absorb on move"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Black Mariah",
@@ -197,7 +365,16 @@
     "hp": 380,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "After summoning, deal XX damage with a strong kick to one enemy on the same vertical line"
+    "ability": "After summoning, deal XX damage with a strong kick to one enemy on the same vertical line",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": false
+    }
   },
   {
     "name": "Black Panther",
@@ -207,7 +384,16 @@
     "hp": 490,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "When damage is dealt to Black Panther through an enemy's special ability, reflect 50% damage back to the source through the use of Wakandan Technology"
+    "ability": "When damage is dealt to Black Panther through an enemy's special ability, reflect 50% damage back to the source through the use of Wakandan Technology",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Unique: Ability reflect"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Black Widow",
@@ -217,7 +403,16 @@
     "hp": 220,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "After summoning, opponent switches all action cards in hand"
+    "ability": "After summoning, opponent switches all action cards in hand",
+    "team": "SHIELD",
+    "collection": "The Origin",
+    "ability_types": [
+      "Unique: Card swap on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Blade",
@@ -227,7 +422,17 @@
     "hp": 570,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "After summoning, drain nearby enemies' HP by 80 with vampiric powers, then add drained HP to own ATK"
+    "ability": "After summoning, drain nearby enemies' HP by 80 with vampiric powers, then add drained HP to own ATK",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Increase ATK on summon",
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Bruce Banner",
@@ -237,7 +442,16 @@
     "hp": 620,
     "rarityName": "Epic",
     "rarity": 3,
-    "ability": "When knocked out, use 1 cosmic fragments to transform into the Hulk"
+    "ability": "When knocked out, use 1 cosmic fragments to transform into the Hulk",
+    "team": "Avengers",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Transform on knock out"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Bullseye",
@@ -247,7 +461,16 @@
     "hp": 360,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "When knocked out, deal 170 damage to an enemy by throwing a shuriken at them"
+    "ability": "When knocked out, deal 170 damage to an enemy by throwing a shuriken at them",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on death"
+    ],
+    "images": {
+      "compact": true,
+      "medium": false
+    }
   },
   {
     "name": "Calamitous Portal",
@@ -257,7 +480,17 @@
     "hp": "--",
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "Every character on the battlefield disappears. Each player summons a random character from either library to random slot for 4 times. Remove from this battle after use and immediately end this turn"
+    "ability": "Every character on the battlefield disappears. Each player summons a random character from either library to random slot for 4 times. Remove from this battle after use and immediately end this turn",
+    "team": "Masters of the Mystic Arts",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Knock out on summon",
+      "Character: Summon on summon"
+    ],
+    "images": {
+      "compact": false,
+      "medium": false
+    }
   },
   {
     "name": "Captain America",
@@ -267,7 +500,16 @@
     "hp": 500,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "After summoning, deals 210 damage to all nearby enemies using his shield throw."
+    "ability": "After summoning, deals 210 damage to all nearby enemies using his shield throw.",
+    "team": "Avengers",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Captain Marvel",
@@ -277,7 +519,16 @@
     "hp": 810,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "After moving, double current ATK. This ability is used once per summon"
+    "ability": "After moving, double current ATK. This ability is used once per summon",
+    "team": "Avengers",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Increase ATK on move"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Carnage",
@@ -287,7 +538,17 @@
     "hp": 1010,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "After summoning, drains nearby enemies' HP by 120 with Symbiote Powers, then adds drained HP to own ATK"
+    "ability": "After summoning, drains nearby enemies' HP by 120 with Symbiote Powers, then adds drained HP to own ATK",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Increase ATK/HP on summon",
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Chain Lightning",
@@ -297,7 +558,16 @@
     "hp": "--",
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "Deals damage by summoning chain lightning. The lightning spreads to nearby enemies, dealing less damage to each new target. Remove from this battle after use"
+    "ability": "Deals damage by summoning chain lightning. The lightning spreads to nearby enemies, dealing less damage to each new target. Remove from this battle after use",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Clea",
@@ -307,7 +577,16 @@
     "hp": 270,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "After summoning, enchants an ally with a shield that prevents damage once until next turn"
+    "ability": "After summoning, enchants an ally with a shield that prevents damage once until next turn",
+    "team": "Masters of the Mystic Arts",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Shield on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Cloak",
@@ -317,7 +596,16 @@
     "hp": 150,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "When knocked out, seize a distant enemy and vanish into the Darkforce forever"
+    "ability": "When knocked out, seize a distant enemy and vanish into the Darkforce forever",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Remove on death"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Colleen Wing",
@@ -327,7 +615,16 @@
     "hp": 160,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "After summoning, deal 90 damage to an enemy on the same horizontal line through a strong sword dash"
+    "ability": "After summoning, deal 90 damage to an enemy on the same horizontal line through a strong sword dash",
+    "team": "Defenders",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Colony of Ants",
@@ -337,7 +634,14 @@
     "hp": 250,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "--"
+    "ability": "--",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Combined Willpower",
@@ -347,7 +651,17 @@
     "hp": "--",
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "Drain the HP of all characters below 350HP to 1 and add half of the maount drained to ATK by channeling the will of Lei Kung. Remove from this battle after use"
+    "ability": "Drain the HP of all characters below 350HP to 1 and add half of the maount drained to ATK by channeling the will of Lei Kung. Remove from this battle after use",
+    "team": "Defenders",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Increase ATK on summon",
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Common Enemy",
@@ -357,7 +671,16 @@
     "hp": "--",
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "Mark an enemy with ATK higher than 400 as a Common Enemy. The Common Enemy will be attacked by all nearby charaters. Remove from this battle after use."
+    "ability": "Mark an enemy with ATK higher than 400 as a Common Enemy. The Common Enemy will be attacked by all nearby charaters. Remove from this battle after use.",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Unique: Character damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": false
+    }
   },
   {
     "name": "Cottonmouth",
@@ -367,7 +690,16 @@
     "hp": 100,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "When knocked out, deal 100~130 damage to a distant enemy"
+    "ability": "When knocked out, deal 100~130 damage to a distant enemy",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on death"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Crimson Hawks",
@@ -377,7 +709,14 @@
     "hp": 350,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "--"
+    "ability": "--",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Dagger",
@@ -387,7 +726,16 @@
     "hp": 310,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "After summoning, deal 180 damage to an enemy by throwing a dagger of light"
+    "ability": "After summoning, deal 180 damage to an enemy by throwing a dagger of light",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Daredevil",
@@ -397,7 +745,16 @@
     "hp": 390,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "After summoning, deal 210 damage to one enemy on the same vertical line by striking them with billy clubs"
+    "ability": "After summoning, deal 210 damage to one enemy on the same vertical line by striking them with billy clubs",
+    "team": "Defenders",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Dark Elf Leader",
@@ -407,7 +764,14 @@
     "hp": 210,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "--"
+    "ability": "--",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Dark Elf Soldier",
@@ -417,7 +781,14 @@
     "hp": 170,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "--"
+    "ability": "--",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Dark Elf Sorcerer",
@@ -427,7 +798,17 @@
     "hp": 420,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "After summoning, deal 180 damage by casting magic on the enemy with the highest ATK, then deal 150 damage to all characters nearby target"
+    "ability": "After summoning, deal 180 damage by casting magic on the enemy with the highest ATK, then deal 150 damage to all characters nearby target",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon",
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Deathlok",
@@ -437,7 +818,16 @@
     "hp": 410,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "After summoning, deal 220-270 damage a diagonally placed enemy through rocket fire"
+    "ability": "After summoning, deal 220-270 damage a diagonally placed enemy through rocket fire",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Destroyer",
@@ -447,7 +837,16 @@
     "hp": 990,
     "rarityName": "Epic",
     "rarity": 3,
-    "ability": "On every turn, consume 2 cosmic fragments to fire a destructive beam that knocks out an enemy"
+    "ability": "On every turn, consume 2 cosmic fragments to fire a destructive beam that knocks out an enemy",
+    "team": "Asgardians",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Knock out on turn"
+    ],
+    "images": {
+      "compact": true,
+      "medium": false
+    }
   },
   {
     "name": "Destructive Hurl",
@@ -457,7 +856,17 @@
     "hp": "--",
     "rarityName": "Epic",
     "rarity": 3,
-    "ability": "Hulk throws a car and deals damage towards a selected enemy, characters near the target receive 1-100 damage each. Remove from this battle after use"
+    "ability": "Hulk throws a car and deals damage towards a selected enemy, characters near the target receive 1-100 damage each. Remove from this battle after use",
+    "team": "Avengers",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon",
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": false
+    }
   },
   {
     "name": "Devil Dinosaur",
@@ -467,7 +876,16 @@
     "hp": 600,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "After summoning, deal 220 damage to all enemies in the same horizontal line by stomping on them"
+    "ability": "After summoning, deal 220 damage to all enemies in the same horizontal line by stomping on them",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Diamondback",
@@ -477,7 +895,16 @@
     "hp": 90,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "After summoning, deal 100 damage by throwing a dagger at a distant enemy"
+    "ability": "After summoning, deal 100 damage by throwing a dagger at a distant enemy",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Doctor Octopus",
@@ -487,7 +914,16 @@
     "hp": 430,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "On every turn, deals 170~200 damage to each nearby diagonally positioned enemy by striking them with metallic arms"
+    "ability": "On every turn, deals 170~200 damage to each nearby diagonally positioned enemy by striking them with metallic arms",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on turn"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Doctor Strange",
@@ -497,7 +933,16 @@
     "hp": 850,
     "rarityName": "Epic",
     "rarity": 3,
-    "ability": "After summoning, enchant all allies with a shild that prevents damage once until next turn"
+    "ability": "After summoning, enchant all allies with a shild that prevents damage once until next turn",
+    "team": "Masters of the Mystic Arts",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Shield on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Doctor Voodoo",
@@ -507,7 +952,16 @@
     "hp": 560,
     "rarityName": "Epic",
     "rarity": 3,
-    "ability": "After summoning, deal damange to all nearby, diagonally placed enemies with voodoo magic"
+    "ability": "After summoning, deal damange to all nearby, diagonally placed enemies with voodoo magic",
+    "team": "Masters of the Mystic Arts",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": false,
+      "medium": false
+    }
   },
   {
     "name": "Dormammu",
@@ -517,7 +971,16 @@
     "hp": 1000,
     "rarityName": "Epic",
     "rarity": 3,
-    "ability": "After summoning, remove the special abilities of all enemies on the battlefield"
+    "ability": "After summoning, remove the special abilities of all enemies on the battlefield",
+    "team": "Masters of the Mystic Arts",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Remove special ability on summon"
+    ],
+    "images": {
+      "compact": false,
+      "medium": false
+    }
   },
   {
     "name": "Drax",
@@ -527,7 +990,16 @@
     "hp": 660,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "On every turn, add ATK 150, HP 150 to self by enraging at the thought of Thanos"
+    "ability": "On every turn, add ATK 150, HP 150 to self by enraging at the thought of Thanos",
+    "team": "Guardians of the Galaxy",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Increase ATK/HP on turn"
+    ],
+    "images": {
+      "compact": true,
+      "medium": false
+    }
   },
   {
     "name": "Dum Dum Dugan",
@@ -537,7 +1009,14 @@
     "hp": 110,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "--"
+    "ability": "--",
+    "team": "SHIELD",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Electro",
@@ -547,7 +1026,16 @@
     "hp": 300,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "After summoning, deal 220 damage to a nearby enemy with an electric shock"
+    "ability": "After summoning, deal 220 damage to a nearby enemy with an electric shock",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Elektra",
@@ -557,7 +1045,16 @@
     "hp": 220,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "After summoning, deal 200 damage to a nearby enemy with the lowest HP utilizing assassination arts"
+    "ability": "After summoning, deal 200 damage to a nearby enemy with the lowest HP utilizing assassination arts",
+    "team": "Defenders",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Enchantress",
@@ -567,7 +1064,16 @@
     "hp": 610,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "On every turn, entice the enemy leader to discard 1 card from their hand"
+    "ability": "On every turn, entice the enemy leader to discard 1 card from their hand",
+    "team": "Asgardians",
+    "collection": "The Origin",
+    "ability_types": [
+      "Unique: Card discard on turn"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Falcon",
@@ -577,7 +1083,16 @@
     "hp": 230,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "After summoning, capture a nearby enemy whose HP is below 400 and vanish from the battlefield with that enemy"
+    "ability": "After summoning, capture a nearby enemy whose HP is below 400 and vanish from the battlefield with that enemy",
+    "team": "Avengers",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Remove on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Fandral",
@@ -587,7 +1102,16 @@
     "hp": 300,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "After summoning, increase Atk of allies on the right and left by 130 by raising their morale"
+    "ability": "After summoning, increase Atk of allies on the right and left by 130 by raising their morale",
+    "team": "Asgardians",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Increase ATK on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Fire Demon",
@@ -597,7 +1121,14 @@
     "hp": 170,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "--"
+    "ability": "--",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Fire Demon Dragon",
@@ -607,7 +1138,16 @@
     "hp": 600,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "After summoning, deal 180 damage by breathing fire on enemies in the same vertical line"
+    "ability": "After summoning, deal 180 damage by breathing fire on enemies in the same vertical line",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Fire Demon Servant",
@@ -617,7 +1157,14 @@
     "hp": 110,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "--"
+    "ability": "--",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "First Aid",
@@ -627,7 +1174,16 @@
     "hp": "--",
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "Night Nurse applies first aid to all allies, adding HP to each. Remove from this battle after use"
+    "ability": "Night Nurse applies first aid to all allies, adding HP to each. Remove from this battle after use",
+    "team": "Defenders",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Increase HP on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Flames of the Faltine",
@@ -637,7 +1193,17 @@
     "hp": "--",
     "rarityName": "Epic",
     "rarity": 3,
-    "ability": "Remove the special abilities of all enemies on the battlefield until the end of this battle. Deal damage to all enemies. Remove from this battle after use"
+    "ability": "Remove the special abilities of all enemies on the battlefield until the end of this battle. Deal damage to all enemies. Remove from this battle after use",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Remove special ability on summon",
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": false
+    }
   },
   {
     "name": "Foggy Nelson",
@@ -647,7 +1213,14 @@
     "hp": 140,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "--"
+    "ability": "--",
+    "team": "Defenders",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Frost Giant Berserker",
@@ -657,7 +1230,16 @@
     "hp": 530,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "After summoning, deal 240 damage each to enemies on right and left through a brutal club thrashing"
+    "ability": "After summoning, deal 240 damage each to enemies on right and left through a brutal club thrashing",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Frost Giant Grunt",
@@ -667,7 +1249,14 @@
     "hp": 180,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "--"
+    "ability": "--",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Frost Giant Swordsman",
@@ -677,7 +1266,14 @@
     "hp": 170,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "--"
+    "ability": "--",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Gamora",
@@ -687,7 +1283,16 @@
     "hp": 360,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "When summoning, deal 230 damage each to enemies on her right and left through slashes with her Godslayer"
+    "ability": "When summoning, deal 230 damage each to enemies on her right and left through slashes with her Godslayer",
+    "team": "Guardians of the Galaxy",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Gangster",
@@ -697,7 +1302,14 @@
     "hp": 110,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "--"
+    "ability": "--",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Ghost Rider",
@@ -707,7 +1319,16 @@
     "hp": 780,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "On every turn, deal 200 damage each to all characters on a vertial line other than the one Ghost Rider is in with Hellfire"
+    "ability": "On every turn, deal 200 damage each to all characters on a vertial line other than the one Ghost Rider is in with Hellfire",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on turn"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Green Goblin",
@@ -717,7 +1338,17 @@
     "hp": 420,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "After summoning, deal 180 damage by throwing a pumpkin bomb at the enemy with the lowest ATK, then deal 150 damage to all characters next to target"
+    "ability": "After summoning, deal 180 damage by throwing a pumpkin bomb at the enemy with the lowest ATK, then deal 150 damage to all characters next to target",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon",
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Groot",
@@ -727,7 +1358,16 @@
     "hp": 910,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "After summoning, add HP to allies on the right and left"
+    "ability": "After summoning, add HP to allies on the right and left",
+    "team": "Guardians of the Galaxy",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Increase HP on summon"
+    ],
+    "images": {
+      "compact": false,
+      "medium": false
+    }
   },
   {
     "name": "Guide to the Afterlife",
@@ -737,7 +1377,16 @@
     "hp": "--",
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "Select an enemy with less than X HP. Death will approach and knock them out of the battlefield. Remove from this battle after use."
+    "ability": "Select an enemy with less than X HP. Death will approach and knock them out of the battlefield. Remove from this battle after use.",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Knockout on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Gwenpool",
@@ -747,7 +1396,17 @@
     "hp": 300,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "After summoning, use all remaining cosmic fragments. Deal damage equal to 200 times the amount used on all nearby enemies"
+    "ability": "After summoning, use all remaining cosmic fragments. Deal damage equal to 200 times the amount used on all nearby enemies",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon",
+      "Fragment: Consume all fragment"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Hand's Master Ninja",
@@ -757,7 +1416,14 @@
     "hp": 80,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "--"
+    "ability": "--",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Hand's Saber Ninja",
@@ -767,7 +1433,14 @@
     "hp": 140,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "--"
+    "ability": "--",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Hand's Shadow Ninja",
@@ -777,7 +1450,14 @@
     "hp": 180,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "--"
+    "ability": "--",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Hawkeye",
@@ -787,7 +1467,16 @@
     "hp": 300,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "After summoning, deal 160~180 damage to the enemy with the lowest HP with an arrow shot"
+    "ability": "After summoning, deal 160~180 damage to the enemy with the lowest HP with an arrow shot",
+    "team": "SHIELD",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Heimdall",
@@ -797,7 +1486,16 @@
     "hp": 240,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "After summoning, get a distant cosmic fragment. This has a 50% success rate"
+    "ability": "After summoning, get a distant cosmic fragment. This has a 50% success rate",
+    "team": "Asgardians",
+    "collection": "The Origin",
+    "ability_types": [
+      "Fragment: Absorb on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Hela",
@@ -807,7 +1505,16 @@
     "hp": 1230,
     "rarityName": "Epic",
     "rarity": 3,
-    "ability": "On every turn, decrease own leader's health by 50 HP and the opponent leader's health by 100 HP by screaming a deadly curse"
+    "ability": "On every turn, decrease own leader's health by 50 HP and the opponent leader's health by 100 HP by screaming a deadly curse",
+    "team": "Asgardians",
+    "collection": "The Origin",
+    "ability_types": [
+      "Unique: Leader damage on turn"
+    ],
+    "images": {
+      "compact": true,
+      "medium": false
+    }
   },
   {
     "name": "Helicarrier Strike",
@@ -817,7 +1524,16 @@
     "hp": "--",
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "The Helicarrier deals 700 damage to a selected horizontal line with an airstrike. Remove from this battle after use"
+    "ability": "The Helicarrier deals 700 damage to a selected horizontal line with an airstrike. Remove from this battle after use",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Hellcat",
@@ -827,7 +1543,16 @@
     "hp": 390,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "After summoning, deal 210 damage through sneak attack on the nearest enemy on the same horizontal line"
+    "ability": "After summoning, deal 210 damage through sneak attack on the nearest enemy on the same horizontal line",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Hellstorm",
@@ -837,7 +1562,16 @@
     "hp": 690,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "When Hellstorm attack in horizontal battle line, Hellstorm attacks an additional time."
+    "ability": "When Hellstorm attack in horizontal battle line, Hellstorm attacks an additional time.",
+    "team": "Masters of the Mystic Arts",
+    "collection": "The Origin",
+    "ability_types": [
+      "Battle Line: Attack twice in battle line"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Hogun",
@@ -847,7 +1581,16 @@
     "hp": 680,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "Destroy cosmic fragments on right and left by smashing them"
+    "ability": "Destroy cosmic fragments on right and left by smashing them",
+    "team": "Asgardians",
+    "collection": "The Origin",
+    "ability_types": [
+      "Fragment: Destroy on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": false
+    }
   },
   {
     "name": "Hulk",
@@ -857,7 +1600,16 @@
     "hp": 840,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "On every turn, attack and deal 340 damage to a nearby enemy with the highest ATK"
+    "ability": "On every turn, attack and deal 340 damage to a nearby enemy with the highest ATK",
+    "team": "Avengers",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on turn"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Hydra Combat Troop",
@@ -867,7 +1619,14 @@
     "hp": 140,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "--"
+    "ability": "--",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Hydra Espionage Agent",
@@ -877,7 +1636,14 @@
     "hp": 140,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "--"
+    "ability": "--",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": false
+    }
   },
   {
     "name": "Hydra Soldier",
@@ -887,7 +1653,14 @@
     "hp": 180,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "--"
+    "ability": "--",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Hydra Squad Leader",
@@ -897,7 +1670,14 @@
     "hp": 210,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "--"
+    "ability": "--",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Hydra's EMP Explosive",
@@ -907,7 +1687,16 @@
     "hp": "--",
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "Deal damage each to every character on the battlefield by blowing an EMP bomb up. Remove from this battle after use"
+    "ability": "Deal damage each to every character on the battlefield by blowing an EMP bomb up. Remove from this battle after use",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Ikari",
@@ -917,7 +1706,16 @@
     "hp": 120,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "After summoning, deal 110 damage to a nearby enemy through sickle slashes"
+    "ability": "After summoning, deal 110 damage to a nearby enemy through sickle slashes",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Iron Fist",
@@ -927,7 +1725,16 @@
     "hp": 280,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "After summoning, destroy 1 nearby cosmic fragment"
+    "ability": "After summoning, destroy 1 nearby cosmic fragment",
+    "team": "Defenders",
+    "collection": "The Origin",
+    "ability_types": [
+      "Fragment: Destroy on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Iron Man",
@@ -937,7 +1744,16 @@
     "hp": 760,
     "rarityName": "Epic",
     "rarity": 3,
-    "ability": "After summoning, deal 170~200 damage each to 2 enemies with smart missiles"
+    "ability": "After summoning, deal 170~200 damage each to 2 enemies with smart missiles",
+    "team": "Avengers",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Iron Monger",
@@ -947,7 +1763,16 @@
     "hp": 660,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "After summoning, deal damage each to 2 enemies with missiles"
+    "ability": "After summoning, deal damage each to 2 enemies with missiles",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Jessica Jones",
@@ -957,7 +1782,16 @@
     "hp": 390,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "After summoning, gain 1 cosmic fragment on the field by thoroughly searching hte perimeter. This has a 50% success rate"
+    "ability": "After summoning, gain 1 cosmic fragment on the field by thoroughly searching hte perimeter. This has a 50% success rate",
+    "team": "Defenders",
+    "collection": "The Origin",
+    "ability_types": [
+      "Fragment: Absorb on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Karen Page",
@@ -967,7 +1801,16 @@
     "hp": 240,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "When knocked out, earn 1 cosmic fragment"
+    "ability": "When knocked out, earn 1 cosmic fragment",
+    "team": "Defenders",
+    "collection": "The Origin",
+    "ability_types": [
+      "Unique: Fragment earn on death"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Kicked Out",
@@ -977,7 +1820,17 @@
     "hp": "--",
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "Target an enemy whose ATK is below X. K.O. the enemy with a kick, and destroy the slot where the target was standing. Remove from this battle after use"
+    "ability": "Target an enemy whose ATK is below X. K.O. the enemy with a kick, and destroy the slot where the target was standing. Remove from this battle after use",
+    "team": "Defenders",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Knock out on summon",
+      "Slot: Destroy on sumon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Kingpin",
@@ -987,7 +1840,16 @@
     "hp": 410,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "After summoning, destroy 1 nearby empty slot by smashing it"
+    "ability": "After summoning, destroy 1 nearby empty slot by smashing it",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Slot: Destroy on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Kree Bomber",
@@ -997,7 +1859,14 @@
     "hp": 120,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "--"
+    "ability": "--",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Kree Guardian",
@@ -1007,7 +1876,14 @@
     "hp": 240,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "--"
+    "ability": "--",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Kree Reaper",
@@ -1017,7 +1893,14 @@
     "hp": 170,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "--"
+    "ability": "--",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Lady Bullseye",
@@ -1027,7 +1910,16 @@
     "hp": 80,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "After summoning, deal 150 damage through an assault on a diagonally positioned enemy"
+    "ability": "After summoning, deal 150 damage through an assault on a diagonally positioned enemy",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Lightning Storm",
@@ -1037,7 +1929,16 @@
     "hp": "--",
     "rarityName": "Epic",
     "rarity": 3,
-    "ability": "Randomly distribute and deal 1600 damage on all enemies on target horizontal line. Remove from this battle after use"
+    "ability": "Randomly distribute and deal 1600 damage on all enemies on target horizontal line. Remove from this battle after use",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": false
+    }
   },
   {
     "name": "Lizard",
@@ -1047,7 +1948,16 @@
     "hp": 260,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "After summoning, deal 170 damage to a nearby enemy with the lowest ATK through vicious bites"
+    "ability": "After summoning, deal 170 damage to a nearby enemy with the lowest ATK through vicious bites",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Loki",
@@ -1057,7 +1967,16 @@
     "hp": 1050,
     "rarityName": "Epic",
     "rarity": 3,
-    "ability": "After summoning, magically disguise one distant ally as Loki, change their appearance and add 200 ATK 200 HP"
+    "ability": "After summoning, magically disguise one distant ally as Loki, change their appearance and add 200 ATK 200 HP",
+    "team": "Asgardians",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Increase ATK/HP on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": false
+    }
   },
   {
     "name": "Luke Cage",
@@ -1067,7 +1986,16 @@
     "hp": 540,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "When damaged and not knocked out, add 120 HP"
+    "ability": "When damaged and not knocked out, add 120 HP",
+    "team": "Defenders",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Increase HP on damage"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Madame Hydra",
@@ -1077,7 +2005,16 @@
     "hp": 380,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "After summoning, deal XX damage to a distant enemy through a pistol shot"
+    "ability": "After summoning, deal XX damage to a distant enemy through a pistol shot",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Malekith",
@@ -1087,7 +2024,16 @@
     "hp": 660,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "On every turn, deal 270-310 damage to an enemy by casting dark magic."
+    "ability": "On every turn, deal 270-310 damage to an enemy by casting dark magic.",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on turn"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Man-Ape",
@@ -1097,7 +2043,16 @@
     "hp": 200,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "After summoning, deal damage by thrusting a spear at the nearest enemy on the same vertical line"
+    "ability": "After summoning, deal damage by thrusting a spear at the nearest enemy on the same vertical line",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Man-Thing",
@@ -1107,7 +2062,16 @@
     "hp": 170,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "On every turn, add 30 HP to self"
+    "ability": "On every turn, add 30 HP to self",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Increase HP on turn"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Maria Hill",
@@ -1117,7 +2081,16 @@
     "hp": 80,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "After summoning, add 100 ATK to nearby allies"
+    "ability": "After summoning, add 100 ATK to nearby allies",
+    "team": "SHIELD",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Increase ATK on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Medusa",
@@ -1127,7 +2100,16 @@
     "hp": 370,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "After summoning, deal 240 damage to a diagonally positioned enemy"
+    "ability": "After summoning, deal 240 damage to a diagonally positioned enemy",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Meteor Strike",
@@ -1137,7 +2119,16 @@
     "hp": "--",
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "Meteors fall, dealing damage each to all characters ona  targeted 3x3 area. Remove from this battle after use"
+    "ability": "Meteors fall, dealing damage each to all characters ona  targeted 3x3 area. Remove from this battle after use",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Mindless Ones - Blaster",
@@ -1147,7 +2138,14 @@
     "hp": 540,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "--"
+    "ability": "--",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Mindless Ones - Striker",
@@ -1157,7 +2155,14 @@
     "hp": 210,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "--"
+    "ability": "--",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Misty Knight",
@@ -1167,7 +2172,16 @@
     "hp": 460,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "On every turn, if there are enemies nearby, earn 1 cosmic fragments"
+    "ability": "On every turn, if there are enemies nearby, earn 1 cosmic fragments",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Unique: Fragment earn on turn"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Moondragon",
@@ -1177,7 +2191,16 @@
     "hp": 500,
     "rarityName": "Epic",
     "rarity": 3,
-    "ability": "When Moondragon attacks in a vertical Battle Line, Moondragon attacks an additional time"
+    "ability": "When Moondragon attacks in a vertical Battle Line, Moondragon attacks an additional time",
+    "team": "Guardians of the Galaxy",
+    "collection": "The Origin",
+    "ability_types": [
+      "Battle Line: Attack twice in battle line"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Ms. Marvel (Kamala Khan)",
@@ -1187,7 +2210,16 @@
     "hp": 390,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "After summoning, deal 220 damage each to all enemies on the same horizontal line"
+    "ability": "After summoning, deal 220 damage each to all enemies on the same horizontal line",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Mysterio",
@@ -1197,7 +2229,16 @@
     "hp": 190,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "After summoning, decrease a nearby enemy's ATK by 80 with hypnosis"
+    "ability": "After summoning, decrease a nearby enemy's ATK by 80 with hypnosis",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Decrease ATK on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Nebula",
@@ -1207,7 +2248,16 @@
     "hp": 400,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "When Nebula attacks in a diagonal Battle Line, Nebula attacks an additional time"
+    "ability": "When Nebula attacks in a diagonal Battle Line, Nebula attacks an additional time",
+    "team": "Guardians of the Galaxy",
+    "collection": "The Origin",
+    "ability_types": [
+      "Battle Line: Attack twice in battle line"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Nick Fury",
@@ -1217,7 +2267,16 @@
     "hp": 260,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "After Summoning, add 150 ATK to distant allies"
+    "ability": "After Summoning, add 150 ATK to distant allies",
+    "team": "SHIELD",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Increase ATK on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Night Nurse",
@@ -1227,7 +2286,16 @@
     "hp": 50,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "After moving, add 150 HP to all nearby characters"
+    "ability": "After moving, add 150 HP to all nearby characters",
+    "team": "Defenders",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Increase HP on move"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Nightmare",
@@ -1237,7 +2305,16 @@
     "hp": 1040,
     "rarityName": "Epic",
     "rarity": 3,
-    "ability": "After moving, halve the HP of all enemies on the field. This ability is used once per summon"
+    "ability": "After moving, halve the HP of all enemies on the field. This ability is used once per summon",
+    "team": "Masters of the Mystic Arts",
+    "collection": "The Origin",
+    "ability_types": [
+      "Unique: Damage character on move"
+    ],
+    "images": {
+      "compact": false,
+      "medium": false
+    }
   },
   {
     "name": "Nova",
@@ -1247,7 +2324,16 @@
     "hp": 900,
     "rarityName": "Epic",
     "rarity": 3,
-    "ability": "When an enemy is summoned nearby to create a battle line, switch positions with that character. This ability is used once per match."
+    "ability": "When an enemy is summoned nearby to create a battle line, switch positions with that character. This ability is used once per match.",
+    "team": "Guardians of the Galaxy",
+    "collection": "The Origin",
+    "ability_types": [
+      "Unique: Switch on enemy battle line"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Nova Centurion",
@@ -1257,7 +2343,14 @@
     "hp": 600,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "--"
+    "ability": "--",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Nova Corpsman",
@@ -1267,7 +2360,14 @@
     "hp": 210,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "--"
+    "ability": "--",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Nova Denarian",
@@ -1277,7 +2377,14 @@
     "hp": 260,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "--"
+    "ability": "--",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Nova Millennian",
@@ -1287,7 +2394,14 @@
     "hp": 210,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "--"
+    "ability": "--",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Nox",
@@ -1297,7 +2411,16 @@
     "hp": 430,
     "rarityName": "Epic",
     "rarity": 3,
-    "ability": "When the enemy switches a card, this characters gains ATK"
+    "ability": "When the enemy switches a card, this characters gains ATK",
+    "team": "Masters of the Mystic Arts",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Increase character ATK on card swap"
+    ],
+    "images": {
+      "compact": true,
+      "medium": false
+    }
   },
   {
     "name": "Odin",
@@ -1307,7 +2430,16 @@
     "hp": 1000,
     "rarityName": "Epic",
     "rarity": 3,
-    "ability": "Odin takes the damage dealt from an enemy Battle Line attack instead of the leader. This ability is used once per match"
+    "ability": "Odin takes the damage dealt from an enemy Battle Line attack instead of the leader. This ability is used once per match",
+    "team": "Asgardians",
+    "collection": "The Origin",
+    "ability_types": [
+      "Unique: Shield leader"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Outrider Assassin",
@@ -1317,7 +2449,14 @@
     "hp": 350,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "--"
+    "ability": "--",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Outrider Parasite",
@@ -1327,7 +2466,14 @@
     "hp": 240,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "--"
+    "ability": "--",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Outrider Warrior",
@@ -1337,7 +2483,14 @@
     "hp": 80,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "--"
+    "ability": "--",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Owl",
@@ -1347,7 +2500,14 @@
     "hp": 170,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "--"
+    "ability": "--",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Pumpkin Bomb Delivery",
@@ -1357,7 +2517,16 @@
     "hp": "--",
     "rarityName": "Epic",
     "rarity": 3,
-    "ability": "Deal 800 damage each to all characters in a selected 2x2 area using Green Goblin's Pumpkin Bombs. Remove from this battle after use"
+    "ability": "Deal 800 damage each to all characters in a selected 2x2 area using Green Goblin's Pumpkin Bombs. Remove from this battle after use",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Punisher",
@@ -1367,7 +2536,16 @@
     "hp": 400,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "After summoning, deal 200 damage to the enemy with the highest HP. If the enemy is distant and alone deal 500 damage instead"
+    "ability": "After summoning, deal 200 damage to the enemy with the highest HP. If the enemy is distant and alone deal 500 damage instead",
+    "team": "Defenders",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Purple Man",
@@ -1377,7 +2555,16 @@
     "hp": 220,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "After summoning, decrease a nearby enemy's ATK by 130 with hypnosis"
+    "ability": "After summoning, decrease a nearby enemy's ATK by 130 with hypnosis",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Decrease ATK on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Radioactive Warning",
@@ -1387,7 +2574,16 @@
     "hp": "--",
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "Target an enemy. On every turn, until the target is knocked out, deal damage to target and all characters nearby them. Remove from this battle after use"
+    "ability": "Target an enemy. On every turn, until the target is knocked out, deal damage to target and all characters nearby them. Remove from this battle after use",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Unique: Character damage on summon/turn"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Ravager Gunner",
@@ -1397,7 +2593,14 @@
     "hp": 110,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "--"
+    "ability": "--",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Ravager Ship Crew",
@@ -1407,7 +2610,14 @@
     "hp": 180,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "--"
+    "ability": "--",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Ravager Squad Leader",
@@ -1417,7 +2627,14 @@
     "hp": 170,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "--"
+    "ability": "--",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Red Skull",
@@ -1427,7 +2644,16 @@
     "hp": 400,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "After moving, summon a hydra soldier with 200 ATK/HP at the previous position"
+    "ability": "After moving, summon a hydra soldier with 200 ATK/HP at the previous position",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Create on move"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Regenerative Spores",
@@ -1437,7 +2663,16 @@
     "hp": "--",
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "Spray regenerative spores on target ally, adding HP to target and all nearby allies. Remove from this battle after use"
+    "ability": "Spray regenerative spores on target ally, adding HP to target and all nearby allies. Remove from this battle after use",
+    "team": "Guardians of the Galaxy",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Increase HP on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": false
+    }
   },
   {
     "name": "Rhino",
@@ -1447,7 +2682,17 @@
     "hp": 470,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "Can move two slots at a time. After moving, Rhino stomps and destroys all slots on the way"
+    "ability": "Can move two slots at a time. After moving, Rhino stomps and destroys all slots on the way",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Move: 2 slots",
+      "Slot: Destroy on move"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Rocket Raccoon",
@@ -1457,7 +2702,17 @@
     "hp": 380,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "After summonoing, deal XX~XX damage and shuffle 3 enemies with explosive gravity bombs"
+    "ability": "After summonoing, deal XX~XX damage and shuffle 3 enemies with explosive gravity bombs",
+    "team": "Guardians of the Galaxy",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon",
+      "Character: Position swap"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Ronan",
@@ -1467,7 +2722,16 @@
     "hp": 610,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "When a character is knocked out, Ronan gains 100 ATK/HP"
+    "ability": "When a character is knocked out, Ronan gains 100 ATK/HP",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Increase ATK/HP on knock out"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "S.H.I.E.L.D. Assault Unit",
@@ -1477,7 +2741,14 @@
     "hp": 140,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "--"
+    "ability": "--",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "S.H.I.E.L.D. Operations Agent",
@@ -1487,7 +2758,14 @@
     "hp": 210,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "--"
+    "ability": "--",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "S.H.I.E.L.D. Team Commander",
@@ -1497,7 +2775,14 @@
     "hp": 170,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "--"
+    "ability": "--",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "S.H.I.E.L.D. Training Humanoid",
@@ -1507,7 +2792,14 @@
     "hp": 180,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "--"
+    "ability": "--",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Sandman",
@@ -1517,7 +2809,16 @@
     "hp": 540,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "After summoning, decrease all nearby enemies' ATK by 120"
+    "ability": "After summoning, decrease all nearby enemies' ATK by 120",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Decrease ATK on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Scorpion",
@@ -1527,7 +2828,16 @@
     "hp": 180,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "If scorpion dealt damage to an enemy, knock them out"
+    "ability": "If scorpion dealt damage to an enemy, knock them out",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Knock out on damage"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Shadow Strike",
@@ -1537,7 +2847,16 @@
     "hp": "--",
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "Remove a character card that has already been played from the opponent's library for the rest of the battle. Decrease own leader's health by 400 HP. Remove from this battle after use"
+    "ability": "Remove a character card that has already been played from the opponent's library for the rest of the battle. Decrease own leader's health by 400 HP. Remove from this battle after use",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Unique: Remove card after knock out"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Shang-Chi",
@@ -1547,7 +2866,16 @@
     "hp": 340,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "After summoning, deal XX~XX damage to a nearby enemy using ancient nunchaku techniques"
+    "ability": "After summoning, deal XX~XX damage to a nearby enemy using ancient nunchaku techniques",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Sharpshooter's Arrow",
@@ -1557,7 +2885,16 @@
     "hp": "--",
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "Sharpshooter shoots an arrow at a selected enemy dealing 500~700 damage. Remove from this battle after use"
+    "ability": "Sharpshooter shoots an arrow at a selected enemy dealing 500~700 damage. Remove from this battle after use",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "She-Hulk",
@@ -1567,7 +2904,16 @@
     "hp": 730,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "On every turn, goes into a rage to add 30 ATK and 30 HP to self for every other character on the field"
+    "ability": "On every turn, goes into a rage to add 30 ATK and 30 HP to self for every other character on the field",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Increase ATK/HP on turn"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Shocker",
@@ -1577,7 +2923,16 @@
     "hp": 340,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "After summoning, deal 220 damage to a nearby enemy with an electric shock"
+    "ability": "After summoning, deal 220 damage to a nearby enemy with an electric shock",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Shroud",
@@ -1587,7 +2942,16 @@
     "hp": 130,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "When knocked out, capture a nearby enemy on left or right and vanish into the Darkforce Dimension"
+    "ability": "When knocked out, capture a nearby enemy on left or right and vanish into the Darkforce Dimension",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Remove after death"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Shuri",
@@ -1597,7 +2961,16 @@
     "hp": 300,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "After summoning, deal 120 damage twice to the nearby enemy with highest ATK"
+    "ability": "After summoning, deal 120 damage twice to the nearby enemy with highest ATK",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Sif",
@@ -1607,7 +2980,16 @@
     "hp": 340,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "After summoning, deal damage each on all nearby enemies with a swing of her sword"
+    "ability": "After summoning, deal damage each on all nearby enemies with a swing of her sword",
+    "team": "Asgardians",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": false
+    }
   },
   {
     "name": "Skeletal Archer",
@@ -1617,7 +2999,14 @@
     "hp": 70,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "--"
+    "ability": "--",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Skeletal Swordsman",
@@ -1627,7 +3016,14 @@
     "hp": 140,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "--"
+    "ability": "--",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Skurge the Executioner",
@@ -1637,7 +3033,16 @@
     "hp": 460,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "After summoning, deal damage each to all nearby characters with a giant axe swing"
+    "ability": "After summoning, deal damage each to all nearby characters with a giant axe swing",
+    "team": "Asgardians",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Smart Missile",
@@ -1647,7 +3052,16 @@
     "hp": "--",
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "Fire smart missiles at 2 enemies, dealing 330 damage 2 times each. Remove from this battle after use"
+    "ability": "Fire smart missiles at 2 enemies, dealing 330 damage 2 times each. Remove from this battle after use",
+    "team": "Avengers",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Sonic Scream",
@@ -1657,7 +3071,16 @@
     "hp": "--",
     "rarityName": "Epic",
     "rarity": 3,
-    "ability": "Deal 800 damage to all characters on a selected vertical line using Black Bolt's Sonic Scream. Remove from this battle after use"
+    "ability": "Deal 800 damage to all characters on a selected vertical line using Black Bolt's Sonic Scream. Remove from this battle after use",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": false
+    }
   },
   {
     "name": "Spider-Gwen",
@@ -1667,7 +3090,16 @@
     "hp": 210,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "When the enemy plays an action card, earn 1 cosmic fragment on field by snagging it with spider webs"
+    "ability": "When the enemy plays an action card, earn 1 cosmic fragment on field by snagging it with spider webs",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Unique: Fragment absorb on action"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Spider-Man",
@@ -1677,7 +3109,16 @@
     "hp": 680,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "After summoning, tie up a card in the opponent's hand and make them unusable unti next turn"
+    "ability": "After summoning, tie up a card in the opponent's hand and make them unusable unti next turn",
+    "team": "Avengers",
+    "collection": "The Origin",
+    "ability_types": [
+      "Unique: Card disable on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Squirrel Girl",
@@ -1687,7 +3128,16 @@
     "hp": 370,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "If Squirrel Girl moves and makes a Battle Line attack, you win the game"
+    "ability": "If Squirrel Girl moves and makes a Battle Line attack, you win the game",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Unique: Win game on battle line move"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Star-Lord",
@@ -1697,7 +3147,16 @@
     "hp": 520,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "After summoning, deal 240 damage to a distant enemy with an elemental gun"
+    "ability": "After summoning, deal 240 damage to a distant enemy with an elemental gun",
+    "team": "Guardians of the Galaxy",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Stick",
@@ -1707,7 +3166,16 @@
     "hp": 110,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "When the each leader plays an action cards, gain 100 ATK/HP"
+    "ability": "When the each leader plays an action cards, gain 100 ATK/HP",
+    "team": "Defenders",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Increase ATK/HP on action"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Storm and Eradicate",
@@ -1717,7 +3185,17 @@
     "hp": "--",
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "Target a cosmic fragment. Destroy both the fragment and the slot, then deal damage equal to 200 times the value of fragment to nearby characters. Remove from this battle after use"
+    "ability": "Target a cosmic fragment. Destroy both the fragment and the slot, then deal damage equal to 200 times the value of fragment to nearby characters. Remove from this battle after use",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon",
+      "Fragment: Destroy on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Storm Summoning",
@@ -1727,7 +3205,16 @@
     "hp": "--",
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "Summon a storm that vanishes all characters except for 1 character with mroe than 600 HP. Remove from this battle after use"
+    "ability": "Summon a storm that vanishes all characters except for 1 character with mroe than 600 HP. Remove from this battle after use",
+    "team": "Asgardians",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Knock out on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Suppressive Fire",
@@ -1737,7 +3224,17 @@
     "hp": "--",
     "rarityName": "Epic",
     "rarity": 3,
-    "ability": "Deal damage each to a selected cross area and reduce their ATK by 100 until the end of the turn through suppressive fire. Remove from the battle after use"
+    "ability": "Deal damage each to a selected cross area and reduce their ATK by 100 until the end of the turn through suppressive fire. Remove from the battle after use",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon",
+      "Character: Reduce ATK on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": false
+    }
   },
   {
     "name": "Surtur",
@@ -1747,7 +3244,16 @@
     "hp": 740,
     "rarityName": "Epic",
     "rarity": 3,
-    "ability": "On every turn, change Surtur's health to full HP using power of the Eternal Flame"
+    "ability": "On every turn, change Surtur's health to full HP using power of the Eternal Flame",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Heal on turn"
+    ],
+    "images": {
+      "compact": true,
+      "medium": false
+    }
   },
   {
     "name": "Tactical Retrieval",
@@ -1757,7 +3263,17 @@
     "hp": "--",
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "Retrieve targeted Cosmic Fragment and add 75 HP to nearby allies. Remove from this battle after use"
+    "ability": "Retrieve targeted Cosmic Fragment and add 75 HP to nearby allies. Remove from this battle after use",
+    "team": "SHIELD",
+    "collection": "The Origin",
+    "ability_types": [
+      "Fragment: Absorb on summon",
+      "Character: Increase HP on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Target Locked",
@@ -1767,7 +3283,16 @@
     "hp": "--",
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "Hawkeye's arrow deals XX damage to a selected enemy. Remove from this battle after use"
+    "ability": "Hawkeye's arrow deals XX damage to a selected enemy. Remove from this battle after use",
+    "team": "SHIELD",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Taskmaster",
@@ -1777,7 +3302,16 @@
     "hp": 440,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "After summoning, deal 220 damage to an enemy on the same horizontal ligne through a tactical sword change"
+    "ability": "After summoning, deal 220 damage to an enemy on the same horizontal ligne through a tactical sword change",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Techno-Organic Virus",
@@ -1787,7 +3321,17 @@
     "hp": "--",
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "Inject the Techno-Organic Virus in a selected enemy, remove target's special ability, while also dealing 330 damage. Remove from this battle after use"
+    "ability": "Inject the Techno-Organic Virus in a selected enemy, remove target's special ability, while also dealing 330 damage. Remove from this battle after use",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Remove special ability on summon",
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Thanos",
@@ -1797,7 +3341,16 @@
     "hp": 970,
     "rarityName": "Epic",
     "rarity": 3,
-    "ability": "On every turn, attack and deal 380 damage to an enemy with the highest Atk"
+    "ability": "On every turn, attack and deal 380 damage to an enemy with the highest Atk",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on turn"
+    ],
+    "images": {
+      "compact": true,
+      "medium": false
+    }
   },
   {
     "name": "The Collector",
@@ -1807,7 +3360,16 @@
     "hp": 800,
     "rarityName": "Epic",
     "rarity": 3,
-    "ability": "After summoning, create 2 cosmic fragments on all empty slots"
+    "ability": "After summoning, create 2 cosmic fragments on all empty slots",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Fragment: Create on summon"
+    ],
+    "images": {
+      "compact": false,
+      "medium": false
+    }
   },
   {
     "name": "Thor",
@@ -1817,7 +3379,16 @@
     "hp": 840,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "On every turn, deal damage to the enemy with the highest HP through a lightning bolt strike"
+    "ability": "On every turn, deal damage to the enemy with the highest HP through a lightning bolt strike",
+    "team": "Asgardians",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on turn"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Thor (Jane Foster)",
@@ -1827,7 +3398,16 @@
     "hp": 690,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "When you switch a card, deal 1-100 damage to the enemy with the highest HP through a lightning bolt strike"
+    "ability": "When you switch a card, deal 1-100 damage to the enemy with the highest HP through a lightning bolt strike",
+    "team": "Asgardians",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on card swap"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Tony Stark",
@@ -1837,7 +3417,17 @@
     "hp": 220,
     "rarityName": "Epic",
     "rarity": 3,
-    "ability": "On every turn, absorb all cosmic fragments to the left and right. If fragments were absorbed 2 times, gear up to Iron-Man model 25"
+    "ability": "On every turn, absorb all cosmic fragments to the left and right. If fragments were absorbed 2 times, gear up to Iron-Man model 25",
+    "team": "Avengers",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Transform on fragment",
+      "Fragment: Absorb nearby fragment"
+    ],
+    "images": {
+      "compact": true,
+      "medium": false
+    }
   },
   {
     "name": "Typhoid Mary",
@@ -1847,7 +3437,16 @@
     "hp": 130,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "After summoning, deal 100 damage to the enemy with the lowest ATK using pyrokinesis"
+    "ability": "After summoning, deal 100 damage to the enemy with the lowest ATK using pyrokinesis",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Ultron",
@@ -1857,7 +3456,16 @@
     "hp": 640,
     "rarityName": "Epic",
     "rarity": 3,
-    "ability": "If Ultron receives damage and is not knocked out, create an Ultron bot with teh same ATK/HP on a distant slot"
+    "ability": "If Ultron receives damage and is not knocked out, create an Ultron bot with teh same ATK/HP on a distant slot",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Create on damage"
+    ],
+    "images": {
+      "compact": true,
+      "medium": false
+    }
   },
   {
     "name": "Ultron Bot",
@@ -1867,7 +3475,16 @@
     "hp": 260,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "After moving, create an Ultron bot with ATK/HP 150 at the previous position"
+    "ability": "After moving, create an Ultron bot with ATK/HP 150 at the previous position",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Create on move"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Umar",
@@ -1877,7 +3494,16 @@
     "hp": 330,
     "rarityName": "Epic",
     "rarity": 3,
-    "ability": "After summoning, deal damage each to all distant enemies by casting a dark spell"
+    "ability": "After summoning, deal damage each to all distant enemies by casting a dark spell",
+    "team": "Masters of the Mystic Arts",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": false
+    }
   },
   {
     "name": "Valkyrie",
@@ -1887,7 +3513,16 @@
     "hp": 690,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "When an action card targets an ally, Valkyrie becomes the target instead"
+    "ability": "When an action card targets an ally, Valkyrie becomes the target instead",
+    "team": "Asgardians",
+    "collection": "The Origin",
+    "ability_types": [
+      "Unique: Action target swap"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Venom",
@@ -1897,7 +3532,17 @@
     "hp": 660,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "After summoning, drain nearby enemies' HP by 80 with Symbiote Powers, then add drained HP to own HP"
+    "ability": "After summoning, drain nearby enemies' HP by 80 with Symbiote Powers, then add drained HP to own HP",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Increase HP on summon",
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Vision",
@@ -1907,7 +3552,16 @@
     "hp": 830,
     "rarityName": "Epic",
     "rarity": 3,
-    "ability": "Can move two slots at a time. Phases through characters to desination"
+    "ability": "Can move two slots at a time. Phases through characters to desination",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Unique: Move 2 slots through Character"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Viv",
@@ -1917,7 +3571,16 @@
     "hp": 330,
     "rarityName": "Epic",
     "rarity": 3,
-    "ability": "After summoning, deal damage each to all cahracters on the same vertical line by firing a solar beam"
+    "ability": "After summoning, deal damage each to all cahracters on the same vertical line by firing a solar beam",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": false
+    }
   },
   {
     "name": "Volstagg",
@@ -1927,7 +3590,16 @@
     "hp": 610,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "When you switch a card, this character gains 20 HP"
+    "ability": "When you switch a card, this character gains 20 HP",
+    "team": "Asgardians",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Increase HP on card swap"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "War Machine",
@@ -1937,7 +3609,16 @@
     "hp": 470,
     "rarityName": "Epic",
     "rarity": 3,
-    "ability": "After summoning, deal damage to 1 enemy with Smart Missiles"
+    "ability": "After summoning, deal damage to 1 enemy with Smart Missiles",
+    "team": "Avengers",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Wasp",
@@ -1947,7 +3628,16 @@
     "hp": 360,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "After summoning, shrink down and deal damage equal to 30-50% of the enemy's HP before returning to original size"
+    "ability": "After summoning, shrink down and deal damage equal to 30-50% of the enemy's HP before returning to original size",
+    "team": "Avengers",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Whiplash",
@@ -1957,7 +3647,16 @@
     "hp": 260,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "After summoning, deal 220~240 damage to a nearby enemy using electric whip"
+    "ability": "After summoning, deal 220~240 damage to a nearby enemy using electric whip",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "White Tiger",
@@ -1967,7 +3666,16 @@
     "hp": 320,
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "When White Tiger moves and makes a Battle Line attack, White Tiger attacks an additional time"
+    "ability": "When White Tiger moves and makes a Battle Line attack, White Tiger attacks an additional time",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Battle Line: Attack twice in battle line"
+    ],
+    "images": {
+      "compact": false,
+      "medium": false
+    }
   },
   {
     "name": "Winter Soldier",
@@ -1977,7 +3685,16 @@
     "hp": 400,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "When knocked out, deal 240~270 damage on all nearby enemies with bomb blasts"
+    "ability": "When knocked out, deal 240~270 damage on all nearby enemies with bomb blasts",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on death"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Wong",
@@ -1987,7 +3704,14 @@
     "hp": 300,
     "rarityName": "Common",
     "rarity": 0,
-    "ability": "--"
+    "ability": "--",
+    "team": "Masters of the Mystic Arts",
+    "collection": "The Origin",
+    "ability_types": [],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Yaka Arrows",
@@ -1997,7 +3721,16 @@
     "hp": "--",
     "rarityName": "Rare",
     "rarity": 2,
-    "ability": "Shoot Yaka Arrows, dealing 400 damage 2 times to a targeted enemy. Remove from this battle after use"
+    "ability": "Shoot Yaka Arrows, dealing 400 damage 2 times to a targeted enemy. Remove from this battle after use",
+    "team": "Guardians of the Galaxy",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Yellowjacket",
@@ -2007,7 +3740,16 @@
     "hp": 350,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "After summoning, deal 210~230 damage each to 1 diagonally placed enemy with laser blast"
+    "ability": "After summoning, deal 210~230 damage each to 1 diagonally placed enemy with laser blast",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   },
   {
     "name": "Ymir",
@@ -2017,7 +3759,16 @@
     "hp": 900,
     "rarityName": "Epic",
     "rarity": 3,
-    "ability": "On every turn, decrease the ATK of all nearby enemies by 120 by freezing them with a gust of extreme cold"
+    "ability": "On every turn, decrease the ATK of all nearby enemies by 120 by freezing them with a gust of extreme cold",
+    "team": "",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Decrease ATK on turn"
+    ],
+    "images": {
+      "compact": true,
+      "medium": false
+    }
   },
   {
     "name": "Yondu",
@@ -2027,6 +3778,15 @@
     "hp": 370,
     "rarityName": "Uncommon",
     "rarity": 1,
-    "ability": "After summoning, deal 230 damage by shooting Yaka arrows at the enemy with highest Atk"
+    "ability": "After summoning, deal 230 damage by shooting Yaka arrows at the enemy with highest Atk",
+    "team": "Guardians of the Galaxy",
+    "collection": "The Origin",
+    "ability_types": [
+      "Character: Damage on summon"
+    ],
+    "images": {
+      "compact": true,
+      "medium": true
+    }
   }
 ]
