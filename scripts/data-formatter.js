@@ -86,7 +86,7 @@ content.forEach((e) => {
   replaceMistake('Hulk', 'HulkBruceBanner');
   replaceMistake('Tony Stark', 'IronManWithoutSuitTonyStark');
   replaceMistake('Ultron', 'Ultron');
-  replaceMistake('Vision', 'undefined');
+  replaceMistake('Vision', 'Vision');
 
   let fullCard = fulldata.find((card) => {
     return card['Card Name'] === e['Card Name']

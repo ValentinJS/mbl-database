@@ -14,7 +14,7 @@
       "Character: Damage on summon"
     ],
     "images": {
-      "compact": false,
+      "compact": true,
       "medium": false
     }
   },
@@ -278,7 +278,7 @@
     ],
     "images": {
       "compact": true,
-      "medium": false
+      "medium": true
     }
   },
   {
@@ -316,7 +316,7 @@
     ],
     "images": {
       "compact": true,
-      "medium": false
+      "medium": true
     }
   },
   {
@@ -373,7 +373,7 @@
     ],
     "images": {
       "compact": true,
-      "medium": false
+      "medium": true
     }
   },
   {
@@ -469,7 +469,7 @@
     ],
     "images": {
       "compact": true,
-      "medium": false
+      "medium": true
     }
   },
   {
@@ -488,8 +488,8 @@
       "Character: Summon on summon"
     ],
     "images": {
-      "compact": false,
-      "medium": false
+      "compact": true,
+      "medium": true
     }
   },
   {
@@ -679,7 +679,7 @@
     ],
     "images": {
       "compact": true,
-      "medium": false
+      "medium": true
     }
   },
   {
@@ -865,7 +865,7 @@
     ],
     "images": {
       "compact": true,
-      "medium": false
+      "medium": true
     }
   },
   {
@@ -959,8 +959,8 @@
       "Character: Damage on summon"
     ],
     "images": {
-      "compact": false,
-      "medium": false
+      "compact": true,
+      "medium": true
     }
   },
   {
@@ -978,7 +978,7 @@
       "Character: Remove special ability on summon"
     ],
     "images": {
-      "compact": false,
+      "compact": true,
       "medium": false
     }
   },
@@ -998,7 +998,7 @@
     ],
     "images": {
       "compact": true,
-      "medium": false
+      "medium": true
     }
   },
   {
@@ -1365,8 +1365,8 @@
       "Character: Increase HP on summon"
     ],
     "images": {
-      "compact": false,
-      "medium": false
+      "compact": true,
+      "medium": true
     }
   },
   {
@@ -1589,7 +1589,7 @@
     ],
     "images": {
       "compact": true,
-      "medium": false
+      "medium": true
     }
   },
   {
@@ -1642,7 +1642,7 @@
     "ability_types": [],
     "images": {
       "compact": true,
-      "medium": false
+      "medium": true
     }
   },
   {
@@ -1937,7 +1937,7 @@
     ],
     "images": {
       "compact": true,
-      "medium": false
+      "medium": true
     }
   },
   {
@@ -2312,7 +2312,7 @@
       "Unique: Damage character on move"
     ],
     "images": {
-      "compact": false,
+      "compact": true,
       "medium": false
     }
   },
@@ -2671,7 +2671,7 @@
     ],
     "images": {
       "compact": true,
-      "medium": false
+      "medium": true
     }
   },
   {
@@ -2988,7 +2988,7 @@
     ],
     "images": {
       "compact": true,
-      "medium": false
+      "medium": true
     }
   },
   {
@@ -3233,7 +3233,7 @@
     ],
     "images": {
       "compact": true,
-      "medium": false
+      "medium": true
     }
   },
   {
@@ -3349,7 +3349,7 @@
     ],
     "images": {
       "compact": true,
-      "medium": false
+      "medium": true
     }
   },
   {
@@ -3367,8 +3367,8 @@
       "Fragment: Create on summon"
     ],
     "images": {
-      "compact": false,
-      "medium": false
+      "compact": true,
+      "medium": true
     }
   },
   {
@@ -3426,7 +3426,7 @@
     ],
     "images": {
       "compact": true,
-      "medium": false
+      "medium": true
     }
   },
   {
@@ -3546,7 +3546,7 @@
   },
   {
     "name": "Vision",
-    "title": "undefined",
+    "title": "Vision",
     "cost": 2,
     "atk": 830,
     "hp": 830,
@@ -3560,7 +3560,7 @@
     ],
     "images": {
       "compact": true,
-      "medium": true
+      "medium": false
     }
   },
   {
@@ -3673,8 +3673,8 @@
       "Battle Line: Attack twice in battle line"
     ],
     "images": {
-      "compact": false,
-      "medium": false
+      "compact": true,
+      "medium": true
     }
   },
   {
